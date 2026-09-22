@@ -1,0 +1,29 @@
+[
+    {
+        "name": "Amen Thompson",
+        "category": "dribble_styles",
+        "introduced_season": 1,
+        "requirements": {
+            "logical_operator": "ALL",
+            "conditions": [
+                {
+                    "attribute": "speed_with_ball",
+                    "operator": ">=",
+                    "value": 79
+                },
+                {
+                    "attribute": "height",
+                    "operator": ">=",
+                    "value": 77
+                },
+                {
+                    "attribute": "height",
+                    "operator": "<=",
+                    "value": 81
+                }
+            ]
+        }
+
+    }
+]
+
