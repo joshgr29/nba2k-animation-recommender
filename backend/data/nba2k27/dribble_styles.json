@@ -23,7 +23,20 @@
                 }
             ]
         }
-
+    },
+    {
+        "name": "Test Dribble Style",
+        "category": "dribble_styles",
+        "introduced_season": 1,
+        "requirements": {
+            "logical_operator": "ALL",
+            "conditions": [
+                {
+                    "attribute": "speed_with_ball",
+                    "operator": ">=",
+                    "value": 75
+                }
+            ]
+        }
     }
 ]
-
