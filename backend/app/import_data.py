@@ -150,7 +150,7 @@ def import_animation(db, animation, game_edition, attribute_codes, category_code
 
             db.add(new_requirement)
 
-            print(f"Animation imported: {animation['name']}")
+        print(f"Animation imported: {animation['name']}")
 
 db = SessionLocal()
 

@@ -25,7 +25,7 @@
         }
     },
     {
-        "name": "Test Dribble Style",
+        "name": "Anthony Edwards",
         "category": "dribble_styles",
         "introduced_season": 1,
         "requirements": {
@@ -34,7 +34,92 @@
                 {
                     "attribute": "speed_with_ball",
                     "operator": ">=",
-                    "value": 75
+                    "value": 76
+                },
+                {
+                    "attribute": "height",
+                    "operator": ">=",
+                    "value": 69
+                },
+                {
+                    "attribute": "height",
+                    "operator": "<=",
+                    "value": 81
+                }
+            ]
+        }
+    },
+    {
+        "name": "Austin Reaves",
+        "category": "dribble_styles",
+        "introduced_season": 1,
+        "requirements": {
+            "logical_operator": "ALL",
+            "conditions": [
+                {
+                    "attribute": "speed_with_ball",
+                    "operator": ">=",
+                    "value": 70
+                },
+                {
+                    "attribute": "height",
+                    "operator": ">=",
+                    "value": 69
+                },
+                {
+                    "attribute": "height",
+                    "operator": "<=",
+                    "value": 81
+                }
+            ]
+        }
+    },
+    {
+        "name": "Basic",
+        "category": "dribble_styles",
+        "introduced_season": 1,
+        "requirements": {
+            "logical_operator": "ALL",
+            "conditions": [
+                {
+                    "attribute": "speed_with_ball",
+                    "operator": ">=",
+                    "value": 0
+                },
+                {
+                    "attribute": "height",
+                    "operator": ">=",
+                    "value": 69
+                },
+                {
+                    "attribute": "height",
+                    "operator": "<=",
+                    "value": 88
+                }
+            ]
+        }
+    },
+    {
+        "name": "Chet Holmgren",
+        "category": "dribble_styles",
+        "introduced_season": 1,
+        "requirements": {
+            "logical_operator": "ALL",
+            "conditions": [
+                {
+                    "attribute": "speed_with_ball",
+                    "operator": ">=",
+                    "value": 60
+                },
+                {
+                    "attribute": "height",
+                    "operator": ">=",
+                    "value": 82
+                },
+                {
+                    "attribute": "height",
+                    "operator": "<=",
+                    "value": 88
                 }
             ]
         }
