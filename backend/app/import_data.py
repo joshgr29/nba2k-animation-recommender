@@ -4,21 +4,12 @@ from sqlalchemy import select
 from app.database import SessionLocal
 from app.models import Attribute, AnimationCategory, GameEdition, Season, Animation, RequirementGroup, Requirement
 
-with open("data/nba2k27/dribble_styles.json", "r") as file:
-    data = json.load(file)
 
-
-
-# print(animation["name"])
-# print(animation["category"])
-# print(animation["introduced_season"])
-# print(animation["requirements"]["logical_operator"])
-
-# for condition in animation["requirements"]["conditions"]:
-#     print(condition["attribute"], condition["operator"], condition["value"])
-    
-
-
+files = [
+    "dribble_styles.json",
+    "signature_size_ups.json",
+    "escape_moves.json"
+]
 
 def validate_animation(animation, attribute_codes, category_codes, season_number):
     required_fields = [
@@ -183,8 +174,12 @@ try:
 
     print(season_number)
 
-    for animation in data:
-        import_animation(db, animation, game_edition, attribute_codes, category_codes, season_number)
+    for filename in files:
+        with open(f"data/nba2k27/{filename}") as file:
+            data = json.load(file)
+
+        for animation in data:
+            import_animation(db, animation, game_edition, attribute_codes, category_codes, season_number)
     
 
     db.commit()

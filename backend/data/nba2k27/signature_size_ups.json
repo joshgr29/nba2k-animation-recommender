@@ -1,38 +1,38 @@
 [
     {
-        "name": "Amen Thompson",
-        "category": "dribble_styles",
+        "name": "Allen Iverson",
+        "category": "signature_size_ups",
         "introduced_season": 1,
         "requirements": {
             "logical_operator": "ALL",
             "conditions": [
                 {
-                    "attribute": "speed_with_ball",
+                    "attribute": "ball_handle",
                     "operator": ">=",
-                    "value": 79
+                    "value": 85
                 },
                 {
                     "attribute": "height",
                     "operator": ">=",
-                    "value": 77
+                    "value": 69
                 },
                 {
                     "attribute": "height",
                     "operator": "<=",
-                    "value": 81
+                    "value": 76
                 }
             ]
         }
     },
     {
         "name": "Anthony Edwards",
-        "category": "dribble_styles",
+        "category": "signature_size_ups",
         "introduced_season": 1,
         "requirements": {
             "logical_operator": "ALL",
             "conditions": [
                 {
-                    "attribute": "speed_with_ball",
+                    "attribute": "ball_handle",
                     "operator": ">=",
                     "value": 76
                 },
@@ -51,13 +51,13 @@
     },
     {
         "name": "Austin Reaves",
-        "category": "dribble_styles",
+        "category": "signature_size_ups",
         "introduced_season": 1,
         "requirements": {
             "logical_operator": "ALL",
             "conditions": [
                 {
-                    "attribute": "speed_with_ball",
+                    "attribute": "ball_handle",
                     "operator": ">=",
                     "value": 70
                 },
@@ -76,13 +76,13 @@
     },
     {
         "name": "Basic",
-        "category": "dribble_styles",
+        "category": "signature_size_ups",
         "introduced_season": 1,
         "requirements": {
             "logical_operator": "ALL",
             "conditions": [
                 {
-                    "attribute": "speed_with_ball",
+                    "attribute": "ball_handle",
                     "operator": ">=",
                     "value": 0
                 },
@@ -100,39 +100,14 @@
         }
     },
     {
-        "name": "Chet Holmgren",
-        "category": "dribble_styles",
-        "introduced_season": 1,
-        "requirements": {
-            "logical_operator": "ALL",
-            "conditions": [
-                {
-                    "attribute": "speed_with_ball",
-                    "operator": ">=",
-                    "value": 60
-                },
-                {
-                    "attribute": "height",
-                    "operator": ">=",
-                    "value": 82
-                },
-                {
-                    "attribute": "height",
-                    "operator": "<=",
-                    "value": 88
-                }
-            ]
-        }
-    },
-    {
         "name": "Chris Paul",
-        "category": "dribble_styles",
+        "category": "signature_size_ups",
         "introduced_season": 1,
         "requirements": {
             "logical_operator": "ALL",
             "conditions": [
                 {
-                    "attribute": "speed_with_ball",
+                    "attribute": "ball_handle",
                     "operator": ">=",
                     "value": 80
                 },
@@ -151,13 +126,13 @@
     },
     {
         "name": "Coby White",
-        "category": "dribble_styles",
+        "category": "signature_size_ups",
         "introduced_season": 1,
         "requirements": {
             "logical_operator": "ALL",
             "conditions": [
                 {
-                    "attribute": "speed_with_ball",
+                    "attribute": "ball_handle",
                     "operator": ">=",
                     "value": 85
                 },
@@ -176,15 +151,15 @@
     },
     {
         "name": "Damian Lillard",
-        "category": "dribble_styles",
+        "category": "signature_size_ups",
         "introduced_season": 1,
         "requirements": {
             "logical_operator": "ALL",
             "conditions": [
                 {
-                    "attribute": "speed_with_ball",
+                    "attribute": "ball_handle",
                     "operator": ">=",
-                    "value": 91
+                    "value": 90
                 },
                 {
                     "attribute": "height",
@@ -201,15 +176,15 @@
     },
     {
         "name": "Darius Garland",
-        "category": "dribble_styles",
+        "category": "signature_size_ups",
         "introduced_season": 1,
         "requirements": {
             "logical_operator": "ALL",
             "conditions": [
                 {
-                    "attribute": "speed_with_ball",
+                    "attribute": "ball_handle",
                     "operator": ">=",
-                    "value": 91
+                    "value": 84
                 },
                 {
                     "attribute": "height",
@@ -225,39 +200,14 @@
         }
     },
     {
-        "name": "Dejounte Murray",
-        "category": "dribble_styles",
+        "name": "DeMar DeRozan",
+        "category": "signature_size_ups",
         "introduced_season": 1,
         "requirements": {
             "logical_operator": "ALL",
             "conditions": [
                 {
-                    "attribute": "speed_with_ball",
-                    "operator": ">=",
-                    "value": 86
-                },
-                {
-                    "attribute": "height",
-                    "operator": ">=",
-                    "value": 69
-                },
-                {
-                    "attribute": "height",
-                    "operator": "<=",
-                    "value": 81
-                }
-            ]
-        }
-    },
-    {
-        "name": "Demar Derozan",
-        "category": "dribble_styles",
-        "introduced_season": 1,
-        "requirements": {
-            "logical_operator": "ALL",
-            "conditions": [
-                {
-                    "attribute": "speed_with_ball",
+                    "attribute": "ball_handle",
                     "operator": ">=",
                     "value": 75
                 },
@@ -275,64 +225,14 @@
         }
     },
     {
-        "name": "Domantas Sabonis",
-        "category": "dribble_styles",
-        "introduced_season": 1,
-        "requirements": {
-            "logical_operator": "ALL",
-            "conditions": [
-                {
-                    "attribute": "speed_with_ball",
-                    "operator": ">=",
-                    "value": 40
-                },
-                {
-                    "attribute": "height",
-                    "operator": ">=",
-                    "value": 82
-                },
-                {
-                    "attribute": "height",
-                    "operator": "<=",
-                    "value": 88
-                }
-            ]
-        }
-    },
-    {
         "name": "Donovan Mitchell",
-        "category": "dribble_styles",
+        "category": "signature_size_ups",
         "introduced_season": 1,
         "requirements": {
             "logical_operator": "ALL",
             "conditions": [
                 {
-                    "attribute": "speed_with_ball",
-                    "operator": ">=",
-                    "value": 80
-                },
-                {
-                    "attribute": "height",
-                    "operator": ">=",
-                    "value": 69
-                },
-                {
-                    "attribute": "height",
-                    "operator": "<=",
-                    "value": 81
-                }
-            ]
-        }
-    },
-    {
-        "name": "Ja Morant",
-        "category": "dribble_styles",
-        "introduced_season": 1,
-        "requirements": {
-            "logical_operator": "ALL",
-            "conditions": [
-                {
-                    "attribute": "speed_with_ball",
+                    "attribute": "ball_handle",
                     "operator": ">=",
                     "value": 85
                 },
@@ -350,16 +250,16 @@
         }
     },
     {
-        "name": "Jaime Jaquez Jr",
-        "category": "dribble_styles",
+        "name": "Ja Morant",
+        "category": "signature_size_ups",
         "introduced_season": 1,
         "requirements": {
             "logical_operator": "ALL",
             "conditions": [
                 {
-                    "attribute": "speed_with_ball",
+                    "attribute": "ball_handle",
                     "operator": ">=",
-                    "value": 70
+                    "value": 86
                 },
                 {
                     "attribute": "height",
@@ -369,47 +269,22 @@
                 {
                     "attribute": "height",
                     "operator": "<=",
-                    "value": 81
-                }
-            ]
-        }
-    },
-    {
-        "name": "Jalen Green",
-        "category": "dribble_styles",
-        "introduced_season": 1,
-        "requirements": {
-            "logical_operator": "ALL",
-            "conditions": [
-                {
-                    "attribute": "speed_with_ball",
-                    "operator": ">=",
-                    "value": 75
-                },
-                {
-                    "attribute": "height",
-                    "operator": ">=",
-                    "value": 69
-                },
-                {
-                    "attribute": "height",
-                    "operator": "<=",
-                    "value": 81
+                    "value": 76
                 }
             ]
         }
     },
     {
         "name": "James Harden",
-        "category": "dribble_styles",
+        "category": "signature_size_ups",
         "introduced_season": 1,
         "requirements": {
             "logical_operator": "ALL",
             "conditions": [
                 {
-                    "attribute": "speed_with_ball",
+                    "attribute": "ball_handle",
                     "operator": ">=",
-                    "value": 75
+                    "value": 86
                 },
                 {
                     "attribute": "height",
@@ -425,39 +300,39 @@
         }
     },
     {
-        "name": "Jaren Jackson Jr",
-        "category": "dribble_styles",
+        "name": "Jason Williams",
+        "category": "signature_size_ups",
         "introduced_season": 1,
         "requirements": {
             "logical_operator": "ALL",
             "conditions": [
                 {
-                    "attribute": "speed_with_ball",
+                    "attribute": "ball_handle",
+                    "operator": ">=",
+                    "value": 85
+                },
+                {
+                    "attribute": "height",
                     "operator": ">=",
                     "value": 69
                 },
                 {
                     "attribute": "height",
-                    "operator": ">=",
-                    "value": 82
-                },
-                {
-                    "attribute": "height",
                     "operator": "<=",
-                    "value": 88
+                    "value": 76
                 }
             ]
         }
     },
     {
         "name": "Jayson Tatum",
-        "category": "dribble_styles",
+        "category": "signature_size_ups",
         "introduced_season": 1,
         "requirements": {
             "logical_operator": "ALL",
             "conditions": [
                 {
-                    "attribute": "speed_with_ball",
+                    "attribute": "ball_handle",
                     "operator": ">=",
                     "value": 75
                 },
@@ -475,16 +350,16 @@
         }
     },
     {
-        "name": "Jimmy Butler",
-        "category": "dribble_styles",
+        "name": "Jordan Poole",
+        "category": "signature_size_ups",
         "introduced_season": 1,
         "requirements": {
             "logical_operator": "ALL",
             "conditions": [
                 {
-                    "attribute": "speed_with_ball",
+                    "attribute": "ball_handle",
                     "operator": ">=",
-                    "value": 70
+                    "value": 86
                 },
                 {
                     "attribute": "height",
@@ -500,114 +375,14 @@
         }
     },
     {
-        "name": "Josh Giddey",
-        "category": "dribble_styles",
+        "name": "Kawhi Leonard",
+        "category": "signature_size_ups",
         "introduced_season": 1,
         "requirements": {
             "logical_operator": "ALL",
             "conditions": [
                 {
-                    "attribute": "speed_with_ball",
-                    "operator": ">=",
-                    "value": 76
-                },
-                {
-                    "attribute": "height",
-                    "operator": ">=",
-                    "value": 69
-                },
-                {
-                    "attribute": "height",
-                    "operator": "<=",
-                    "value": 81
-                }
-            ]
-        }
-    },
-    {
-        "name": "Kevin Durant",
-        "category": "dribble_styles",
-        "introduced_season": 1,
-        "requirements": {
-            "logical_operator": "ALL",
-            "conditions": [
-                {
-                    "attribute": "speed_with_ball",
-                    "operator": ">=",
-                    "value": 65
-                },
-                {
-                    "attribute": "height",
-                    "operator": ">=",
-                    "value": 77
-                },
-                {
-                    "attribute": "height",
-                    "operator": "<=",
-                    "value": 88
-                }
-            ]
-        }
-    },
-    {
-        "name": "Kyrie Irving",
-        "category": "dribble_styles",
-        "introduced_season": 1,
-        "requirements": {
-            "logical_operator": "ALL",
-            "conditions": [
-                {
-                    "attribute": "speed_with_ball",
-                    "operator": ">=",
-                    "value": 94
-                },
-                {
-                    "attribute": "height",
-                    "operator": ">=",
-                    "value": 69
-                },
-                {
-                    "attribute": "height",
-                    "operator": "<=",
-                    "value": 76
-                }
-            ]
-        }
-    },
-    {
-        "name": "LeBron James",
-        "category": "dribble_styles",
-        "introduced_season": 1,
-        "requirements": {
-            "logical_operator": "ALL",
-            "conditions": [
-                {
-                    "attribute": "speed_with_ball",
-                    "operator": ">=",
-                    "value": 75
-                },
-                {
-                    "attribute": "height",
-                    "operator": ">=",
-                    "value": 69
-                },
-                {
-                    "attribute": "height",
-                    "operator": "<=",
-                    "value": 81
-                }
-            ]
-        }
-    },
-    {
-        "name": "Luka Doncic",
-        "category": "dribble_styles",
-        "introduced_season": 1,
-        "requirements": {
-            "logical_operator": "ALL",
-            "conditions": [
-                {
-                    "attribute": "speed_with_ball",
+                    "attribute": "ball_handle",
                     "operator": ">=",
                     "value": 80
                 },
@@ -625,21 +400,21 @@
         }
     },
     {
-        "name": "Nikola Jokic",
-        "category": "dribble_styles",
+        "name": "Kevin Durant",
+        "category": "signature_size_ups",
         "introduced_season": 1,
         "requirements": {
             "logical_operator": "ALL",
             "conditions": [
                 {
-                    "attribute": "speed_with_ball",
+                    "attribute": "ball_handle",
                     "operator": ">=",
-                    "value": 50
+                    "value": 70
                 },
                 {
                     "attribute": "height",
                     "operator": ">=",
-                    "value": 82
+                    "value": 77
                 },
                 {
                     "attribute": "height",
@@ -650,14 +425,114 @@
         }
     },
     {
-        "name": "Normal",
-        "category": "dribble_styles",
+        "name": "Kobe Bryant",
+        "category": "signature_size_ups",
         "introduced_season": 1,
         "requirements": {
             "logical_operator": "ALL",
             "conditions": [
                 {
-                    "attribute": "speed_with_ball",
+                    "attribute": "ball_handle",
+                    "operator": ">=",
+                    "value": 88
+                },
+                {
+                    "attribute": "height",
+                    "operator": ">=",
+                    "value": 77
+                },
+                {
+                    "attribute": "height",
+                    "operator": "<=",
+                    "value": 81
+                }
+            ]
+        }
+    },
+    {
+        "name": "Kyrie Irving",
+        "category": "signature_size_ups",
+        "introduced_season": 1,
+        "requirements": {
+            "logical_operator": "ALL",
+            "conditions": [
+                {
+                    "attribute": "ball_handle",
+                    "operator": ">=",
+                    "value": 90
+                },
+                {
+                    "attribute": "height",
+                    "operator": ">=",
+                    "value": 69
+                },
+                {
+                    "attribute": "height",
+                    "operator": "<=",
+                    "value": 76
+                }
+            ]
+        }
+    },
+    {
+        "name": "LeBron James",
+        "category": "signature_size_ups",
+        "introduced_season": 1,
+        "requirements": {
+            "logical_operator": "ALL",
+            "conditions": [
+                {
+                    "attribute": "ball_handle",
+                    "operator": ">=",
+                    "value": 80
+                },
+                {
+                    "attribute": "height",
+                    "operator": ">=",
+                    "value": 69
+                },
+                {
+                    "attribute": "height",
+                    "operator": "<=",
+                    "value": 81
+                }
+            ]
+        }
+    },
+    {
+        "name": "Luka Doncic",
+        "category": "signature_size_ups",
+        "introduced_season": 1,
+        "requirements": {
+            "logical_operator": "ALL",
+            "conditions": [
+                {
+                    "attribute": "ball_handle",
+                    "operator": ">=",
+                    "value": 84
+                },
+                {
+                    "attribute": "height",
+                    "operator": ">=",
+                    "value": 69
+                },
+                {
+                    "attribute": "height",
+                    "operator": "<=",
+                    "value": 81
+                }
+            ]
+        }
+    },
+    {
+        "name": "Normal",
+        "category": "signature_size_ups",
+        "introduced_season": 1,
+        "requirements": {
+            "logical_operator": "ALL",
+            "conditions": [
+                {
+                    "attribute": "ball_handle",
                     "operator": ">=",
                     "value": 40
                 },
@@ -675,39 +550,39 @@
         }
     },
     {
-        "name": "Paolo Banchero",
-        "category": "dribble_styles",
+        "name": "Paul George",
+        "category": "signature_size_ups",
         "introduced_season": 1,
         "requirements": {
             "logical_operator": "ALL",
             "conditions": [
                 {
-                    "attribute": "speed_with_ball",
+                    "attribute": "ball_handle",
                     "operator": ">=",
-                    "value": 50
+                    "value": 86
                 },
                 {
                     "attribute": "height",
                     "operator": ">=",
-                    "value": 82
+                    "value": 69
                 },
                 {
                     "attribute": "height",
                     "operator": "<=",
-                    "value": 88
+                    "value": 81
                 }
             ]
         }
     },
     {
         "name": "Pro",
-        "category": "dribble_styles",
+        "category": "signature_size_ups",
         "introduced_season": 1,
         "requirements": {
             "logical_operator": "ALL",
             "conditions": [
                 {
-                    "attribute": "speed_with_ball",
+                    "attribute": "ball_handle",
                     "operator": ">=",
                     "value": 70
                 },
@@ -725,39 +600,14 @@
         }
     },
     {
-        "name": "Russell Westbrook",
-        "category": "dribble_styles",
-        "introduced_season": 1,
-        "requirements": {
-            "logical_operator": "ALL",
-            "conditions": [
-                {
-                    "attribute": "speed_with_ball",
-                    "operator": ">=",
-                    "value": 87
-                },
-                {
-                    "attribute": "height",
-                    "operator": ">=",
-                    "value": 69
-                },
-                {
-                    "attribute": "height",
-                    "operator": "<=",
-                    "value": 76
-                }
-            ]
-        }
-    },
-    {
         "name": "Scoot Henderson",
-        "category": "dribble_styles",
+        "category": "signature_size_ups",
         "introduced_season": 1,
         "requirements": {
             "logical_operator": "ALL",
             "conditions": [
                 {
-                    "attribute": "speed_with_ball",
+                    "attribute": "ball_handle",
                     "operator": ">=",
                     "value": 80
                 },
@@ -776,15 +626,15 @@
     },
     {
         "name": "Shai Gilgeous-Alexander",
-        "category": "dribble_styles",
+        "category": "signature_size_ups",
         "introduced_season": 1,
         "requirements": {
             "logical_operator": "ALL",
             "conditions": [
                 {
-                    "attribute": "speed_with_ball",
+                    "attribute": "ball_handle",
                     "operator": ">=",
-                    "value": 84
+                    "value": 91
                 },
                 {
                     "attribute": "height",
@@ -801,15 +651,15 @@
     },
     {
         "name": "Stephen Curry",
-        "category": "dribble_styles",
+        "category": "signature_size_ups",
         "introduced_season": 1,
         "requirements": {
             "logical_operator": "ALL",
             "conditions": [
                 {
-                    "attribute": "speed_with_ball",
+                    "attribute": "ball_handle",
                     "operator": ">=",
-                    "value": 91
+                    "value": 92
                 },
                 {
                     "attribute": "height",
@@ -826,15 +676,15 @@
     },
     {
         "name": "Trae Young",
-        "category": "dribble_styles",
+        "category": "signature_size_ups",
         "introduced_season": 1,
         "requirements": {
             "logical_operator": "ALL",
             "conditions": [
                 {
-                    "attribute": "speed_with_ball",
+                    "attribute": "ball_handle",
                     "operator": ">=",
-                    "value": 90
+                    "value": 92
                 },
                 {
                     "attribute": "height",
@@ -850,91 +700,16 @@
         }
     },
     {
-        "name": "Tyrese Maxey",
-        "category": "dribble_styles",
-        "introduced_season": 1,
-        "requirements": {
-            "logical_operator": "ALL",
-            "conditions": [
-                {
-                    "attribute": "speed_with_ball",
-                    "operator": ">=",
-                    "value": 82
-                },
-                {
-                    "attribute": "height",
-                    "operator": ">=",
-                    "value": 69
-                },
-                {
-                    "attribute": "height",
-                    "operator": "<=",
-                    "value": 81
-                }
-            ]
-        }
-    },
-    {
-        "name": "Victor Wembanyama",
-        "category": "dribble_styles",
-        "introduced_season": 1,
-        "requirements": {
-            "logical_operator": "ALL",
-            "conditions": [
-                {
-                    "attribute": "speed_with_ball",
-                    "operator": ">=",
-                    "value": 68
-                },
-                {
-                    "attribute": "height",
-                    "operator": ">=",
-                    "value": 82
-                },
-                {
-                    "attribute": "height",
-                    "operator": "<=",
-                    "value": 88
-                }
-            ]
-        }
-    },
-    {
-        "name": "WNBA",
-        "category": "dribble_styles",
-        "introduced_season": 1,
-        "requirements": {
-            "logical_operator": "ALL",
-            "conditions": [
-                {
-                    "attribute": "speed_with_ball",
-                    "operator": ">=",
-                    "value": 60
-                },
-                {
-                    "attribute": "height",
-                    "operator": ">=",
-                    "value": 69
-                },
-                {
-                    "attribute": "height",
-                    "operator": "<=",
-                    "value": 81
-                }
-            ]
-        }
-    },
-    {
         "name": "Zach LaVine",
-        "category": "dribble_styles",
+        "category": "signature_size_ups",
         "introduced_season": 1,
         "requirements": {
             "logical_operator": "ALL",
             "conditions": [
                 {
-                    "attribute": "speed_with_ball",
+                    "attribute": "ball_handle",
                     "operator": ">=",
-                    "value": 83
+                    "value": 85
                 },
                 {
                     "attribute": "height",
@@ -951,15 +726,15 @@
     },
     {
         "name": "Zion Williamson",
-        "category": "dribble_styles",
+        "category": "signature_size_ups",
         "introduced_season": 1,
         "requirements": {
             "logical_operator": "ALL",
             "conditions": [
                 {
-                    "attribute": "speed_with_ball",
+                    "attribute": "ball_handle",
                     "operator": ">=",
-                    "value": 60
+                    "value": 70
                 },
                 {
                     "attribute": "height",

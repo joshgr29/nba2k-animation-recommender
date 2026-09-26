@@ -1,0 +1,2827 @@
+[
+    {
+        "name": "Allen Iverson Behind the Back Escape",
+        "category": "escape_moves",
+        "introduced_season": 1,
+        "requirements": {
+            "logical_operator": "ALL",
+            "conditions": [
+                {
+                    "attribute": "ball_handle",
+                    "operator": ">=",
+                    "value": 85
+                },
+                {
+                    "attribute": "height",
+                    "operator": ">=",
+                    "value": 69
+                },
+                {
+                    "attribute": "height",
+                    "operator": "<=",
+                    "value": 76
+                }
+            ]
+        }
+    },
+    {
+        "name": "Andrew Wiggins Behind the Back Escape",
+        "category": "escape_moves",
+        "introduced_season": 1,
+        "requirements": {
+            "logical_operator": "ALL",
+            "conditions": [
+                {
+                    "attribute": "ball_handle",
+                    "operator": ">=",
+                    "value": 75
+                },
+                {
+                    "attribute": "height",
+                    "operator": ">=",
+                    "value": 69
+                },
+                {
+                    "attribute": "height",
+                    "operator": "<=",
+                    "value": 81
+                }
+            ]
+        }
+    },
+    {
+        "name": "Anthony Edwards Behind the Back Escape",
+        "category": "escape_moves",
+        "introduced_season": 1,
+        "requirements": {
+            "logical_operator": "ALL",
+            "conditions": [
+                {
+                    "attribute": "ball_handle",
+                    "operator": ">=",
+                    "value": 76
+                },
+                {
+                    "attribute": "height",
+                    "operator": ">=",
+                    "value": 69
+                },
+                {
+                    "attribute": "height",
+                    "operator": "<=",
+                    "value": 81
+                }
+            ]
+        }
+    },
+    {
+        "name": "Austin Reaves Behind the Back Escape",
+        "category": "escape_moves",
+        "introduced_season": 1,
+        "requirements": {
+            "logical_operator": "ALL",
+            "conditions": [
+                {
+                    "attribute": "ball_handle",
+                    "operator": ">=",
+                    "value": 70
+                },
+                {
+                    "attribute": "height",
+                    "operator": ">=",
+                    "value": 69
+                },
+                {
+                    "attribute": "height",
+                    "operator": "<=",
+                    "value": 81
+                }
+            ]
+        }
+    },
+    {
+        "name": "Basic Behind the Back Escape",
+        "category": "escape_moves",
+        "introduced_season": 1,
+        "requirements": {
+            "logical_operator": "ALL",
+            "conditions": [
+                {
+                    "attribute": "ball_handle",
+                    "operator": ">=",
+                    "value": 0
+                },
+                {
+                    "attribute": "height",
+                    "operator": ">=",
+                    "value": 69
+                },
+                {
+                    "attribute": "height",
+                    "operator": "<=",
+                    "value": 88
+                }
+            ]
+        }
+    },
+    {
+        "name": "Chris Paul Behind the Back Escape",
+        "category": "escape_moves",
+        "introduced_season": 1,
+        "requirements": {
+            "logical_operator": "ALL",
+            "conditions": [
+                {
+                    "attribute": "ball_handle",
+                    "operator": ">=",
+                    "value": 80
+                },
+                {
+                    "attribute": "height",
+                    "operator": ">=",
+                    "value": 69
+                },
+                {
+                    "attribute": "height",
+                    "operator": "<=",
+                    "value": 81
+                }
+            ]
+        }
+    },
+    {
+        "name": "Coby White Behind the Back Escape",
+        "category": "escape_moves",
+        "introduced_season": 1,
+        "requirements": {
+            "logical_operator": "ALL",
+            "conditions": [
+                {
+                    "attribute": "ball_handle",
+                    "operator": ">=",
+                    "value": 85
+                },
+                {
+                    "attribute": "height",
+                    "operator": ">=",
+                    "value": 69
+                },
+                {
+                    "attribute": "height",
+                    "operator": "<=",
+                    "value": 81
+                }
+            ]
+        }
+    },
+    {
+        "name": "Damian Lillard Behind the Back Escape",
+        "category": "escape_moves",
+        "introduced_season": 1,
+        "requirements": {
+            "logical_operator": "ALL",
+            "conditions": [
+                {
+                    "attribute": "ball_handle",
+                    "operator": ">=",
+                    "value": 90
+                },
+                {
+                    "attribute": "height",
+                    "operator": ">=",
+                    "value": 69
+                },
+                {
+                    "attribute": "height",
+                    "operator": "<=",
+                    "value": 76
+                }
+            ]
+        }
+    },
+    {
+        "name": "Darius Garland Behind the Back Escape",
+        "category": "escape_moves",
+        "introduced_season": 1,
+        "requirements": {
+            "logical_operator": "ALL",
+            "conditions": [
+                {
+                    "attribute": "ball_handle",
+                    "operator": ">=",
+                    "value": 84
+                },
+                {
+                    "attribute": "height",
+                    "operator": ">=",
+                    "value": 69
+                },
+                {
+                    "attribute": "height",
+                    "operator": "<=",
+                    "value": 76
+                }
+            ]
+        }
+    },
+    {
+        "name": "DeMar DeRozan Behind the Back Escape",
+        "category": "escape_moves",
+        "introduced_season": 1,
+        "requirements": {
+            "logical_operator": "ALL",
+            "conditions": [
+                {
+                    "attribute": "ball_handle",
+                    "operator": ">=",
+                    "value": 75
+                },
+                {
+                    "attribute": "height",
+                    "operator": ">=",
+                    "value": 69
+                },
+                {
+                    "attribute": "height",
+                    "operator": "<=",
+                    "value": 81
+                }
+            ]
+        }
+    },
+    {
+        "name": "Domantas Sabonis Behind the Back Escape",
+        "category": "escape_moves",
+        "introduced_season": 1,
+        "requirements": {
+            "logical_operator": "ALL",
+            "conditions": [
+                {
+                    "attribute": "ball_handle",
+                    "operator": ">=",
+                    "value": 75
+                },
+                {
+                    "attribute": "height",
+                    "operator": ">=",
+                    "value": 82
+                },
+                {
+                    "attribute": "height",
+                    "operator": "<=",
+                    "value": 88
+                }
+            ]
+        }
+    },
+    {
+        "name": "Donovan Mitchell Behind the Back Escape",
+        "category": "escape_moves",
+        "introduced_season": 1,
+        "requirements": {
+            "logical_operator": "ALL",
+            "conditions": [
+                {
+                    "attribute": "ball_handle",
+                    "operator": ">=",
+                    "value": 80
+                },
+                {
+                    "attribute": "height",
+                    "operator": ">=",
+                    "value": 69
+                },
+                {
+                    "attribute": "height",
+                    "operator": "<=",
+                    "value": 81
+                }
+            ]
+        }
+    },
+    {
+        "name": "Ja Morant Behind the Back Escape",
+        "category": "escape_moves",
+        "introduced_season": 1,
+        "requirements": {
+            "logical_operator": "ALL",
+            "conditions": [
+                {
+                    "attribute": "ball_handle",
+                    "operator": ">=",
+                    "value": 86
+                },
+                {
+                    "attribute": "height",
+                    "operator": ">=",
+                    "value": 69
+                },
+                {
+                    "attribute": "height",
+                    "operator": "<=",
+                    "value": 76
+                }
+            ]
+        }
+    },
+    {
+        "name": "James Harden Behind the Back Escape",
+        "category": "escape_moves",
+        "introduced_season": 1,
+        "requirements": {
+            "logical_operator": "ALL",
+            "conditions": [
+                {
+                    "attribute": "ball_handle",
+                    "operator": ">=",
+                    "value": 86
+                },
+                {
+                    "attribute": "height",
+                    "operator": ">=",
+                    "value": 69
+                },
+                {
+                    "attribute": "height",
+                    "operator": "<=",
+                    "value": 81
+                }
+            ]
+        }
+    },
+    {
+        "name": "Jayson Tatum Behind the Back Escape",
+        "category": "escape_moves",
+        "introduced_season": 1,
+        "requirements": {
+            "logical_operator": "ALL",
+            "conditions": [
+                {
+                    "attribute": "ball_handle",
+                    "operator": ">=",
+                    "value": 75
+                },
+                {
+                    "attribute": "height",
+                    "operator": ">=",
+                    "value": 69
+                },
+                {
+                    "attribute": "height",
+                    "operator": "<=",
+                    "value": 81
+                }
+            ]
+        }
+    },
+    {
+        "name": "Jimmy Butler Behind the Back Escape",
+        "category": "escape_moves",
+        "introduced_season": 1,
+        "requirements": {
+            "logical_operator": "ALL",
+            "conditions": [
+                {
+                    "attribute": "ball_handle",
+                    "operator": ">=",
+                    "value": 80
+                },
+                {
+                    "attribute": "height",
+                    "operator": ">=",
+                    "value": 69
+                },
+                {
+                    "attribute": "height",
+                    "operator": "<=",
+                    "value": 81
+                }
+            ]
+        }
+    },
+    {
+        "name": "Jordan Poole Behind the Back Escape",
+        "category": "escape_moves",
+        "introduced_season": 1,
+        "requirements": {
+            "logical_operator": "ALL",
+            "conditions": [
+                {
+                    "attribute": "ball_handle",
+                    "operator": ">=",
+                    "value": 86
+                },
+                {
+                    "attribute": "height",
+                    "operator": ">=",
+                    "value": 69
+                },
+                {
+                    "attribute": "height",
+                    "operator": "<=",
+                    "value": 81
+                }
+            ]
+        }
+    },
+    {
+        "name": "Josh Giddey Behind the Back Escape",
+        "category": "escape_moves",
+        "introduced_season": 1,
+        "requirements": {
+            "logical_operator": "ALL",
+            "conditions": [
+                {
+                    "attribute": "ball_handle",
+                    "operator": ">=",
+                    "value": 76
+                },
+                {
+                    "attribute": "height",
+                    "operator": ">=",
+                    "value": 69
+                },
+                {
+                    "attribute": "height",
+                    "operator": "<=",
+                    "value": 81
+                }
+            ]
+        }
+    },
+    {
+        "name": "Kawhi Leonard Behind the Back Escape",
+        "category": "escape_moves",
+        "introduced_season": 1,
+        "requirements": {
+            "logical_operator": "ALL",
+            "conditions": [
+                {
+                    "attribute": "ball_handle",
+                    "operator": ">=",
+                    "value": 80
+                },
+                {
+                    "attribute": "height",
+                    "operator": ">=",
+                    "value": 69
+                },
+                {
+                    "attribute": "height",
+                    "operator": "<=",
+                    "value": 81
+                }
+            ]
+        }
+    },
+    {
+        "name": "Kevin Durant Behind the Back Escape",
+        "category": "escape_moves",
+        "introduced_season": 1,
+        "requirements": {
+            "logical_operator": "ALL",
+            "conditions": [
+                {
+                    "attribute": "ball_handle",
+                    "operator": ">=",
+                    "value": 70
+                },
+                {
+                    "attribute": "height",
+                    "operator": ">=",
+                    "value": 77
+                },
+                {
+                    "attribute": "height",
+                    "operator": "<=",
+                    "value": 88
+                }
+            ]
+        }
+    },
+    {
+        "name": "Kyle Kuzma Behind the Back Escape",
+        "category": "escape_moves",
+        "introduced_season": 1,
+        "requirements": {
+            "logical_operator": "ALL",
+            "conditions": [
+                {
+                    "attribute": "ball_handle",
+                    "operator": ">=",
+                    "value": 70
+                },
+                {
+                    "attribute": "height",
+                    "operator": ">=",
+                    "value": 69
+                },
+                {
+                    "attribute": "height",
+                    "operator": "<=",
+                    "value": 81
+                }
+            ]
+        }
+    },
+    {
+        "name": "Kyrie Irving Behind the Back Escape",
+        "category": "escape_moves",
+        "introduced_season": 1,
+        "requirements": {
+            "logical_operator": "ALL",
+            "conditions": [
+                {
+                    "attribute": "ball_handle",
+                    "operator": ">=",
+                    "value": 90
+                },
+                {
+                    "attribute": "height",
+                    "operator": ">=",
+                    "value": 69
+                },
+                {
+                    "attribute": "height",
+                    "operator": "<=",
+                    "value": 76
+                }
+            ]
+        }
+    },
+    {
+        "name": "LeBron James Behind the Back Escape",
+        "category": "escape_moves",
+        "introduced_season": 1,
+        "requirements": {
+            "logical_operator": "ALL",
+            "conditions": [
+                {
+                    "attribute": "ball_handle",
+                    "operator": ">=",
+                    "value": 80
+                },
+                {
+                    "attribute": "height",
+                    "operator": ">=",
+                    "value": 69
+                },
+                {
+                    "attribute": "height",
+                    "operator": "<=",
+                    "value": 81
+                }
+            ]
+        }
+    },
+    {
+        "name": "Luka Doncic Behind the Back Escape",
+        "category": "escape_moves",
+        "introduced_season": 1,
+        "requirements": {
+            "logical_operator": "ALL",
+            "conditions": [
+                {
+                    "attribute": "ball_handle",
+                    "operator": ">=",
+                    "value": 84
+                },
+                {
+                    "attribute": "height",
+                    "operator": ">=",
+                    "value": 69
+                },
+                {
+                    "attribute": "height",
+                    "operator": "<=",
+                    "value": 81
+                }
+            ]
+        }
+    },
+    {
+        "name": "Markelle Fultz Behind the Back Escape",
+        "category": "escape_moves",
+        "introduced_season": 1,
+        "requirements": {
+            "logical_operator": "ALL",
+            "conditions": [
+                {
+                    "attribute": "ball_handle",
+                    "operator": ">=",
+                    "value": 80
+                },
+                {
+                    "attribute": "height",
+                    "operator": ">=",
+                    "value": 69
+                },
+                {
+                    "attribute": "height",
+                    "operator": "<=",
+                    "value": 81
+                }
+            ]
+        }
+    },
+    {
+        "name": "Normal Behind the Back Escape",
+        "category": "escape_moves",
+        "introduced_season": 1,
+        "requirements": {
+            "logical_operator": "ALL",
+            "conditions": [
+                {
+                    "attribute": "ball_handle",
+                    "operator": ">=",
+                    "value": 40
+                },
+                {
+                    "attribute": "height",
+                    "operator": ">=",
+                    "value": 69
+                },
+                {
+                    "attribute": "height",
+                    "operator": "<=",
+                    "value": 88
+                }
+            ]
+        }
+    },
+    {
+        "name": "Paul George Behind the Back Escape",
+        "category": "escape_moves",
+        "introduced_season": 1,
+        "requirements": {
+            "logical_operator": "ALL",
+            "conditions": [
+                {
+                    "attribute": "ball_handle",
+                    "operator": ">=",
+                    "value": 86
+                },
+                {
+                    "attribute": "height",
+                    "operator": ">=",
+                    "value": 69
+                },
+                {
+                    "attribute": "height",
+                    "operator": "<=",
+                    "value": 81
+                }
+            ]
+        }
+    },
+    {
+        "name": "Pro Behind the Back Escape",
+        "category": "escape_moves",
+        "introduced_season": 1,
+        "requirements": {
+            "logical_operator": "ALL",
+            "conditions": [
+                {
+                    "attribute": "ball_handle",
+                    "operator": ">=",
+                    "value": 70
+                },
+                {
+                    "attribute": "height",
+                    "operator": ">=",
+                    "value": 69
+                },
+                {
+                    "attribute": "height",
+                    "operator": "<=",
+                    "value": 88
+                }
+            ]
+        }
+    },
+    {
+        "name": "Rob Dillingham Behind the Back Escape",
+        "category": "escape_moves",
+        "introduced_season": 1,
+        "requirements": {
+            "logical_operator": "ALL",
+            "conditions": [
+                {
+                    "attribute": "ball_handle",
+                    "operator": ">=",
+                    "value": 85
+                },
+                {
+                    "attribute": "height",
+                    "operator": ">=",
+                    "value": 69
+                },
+                {
+                    "attribute": "height",
+                    "operator": "<=",
+                    "value": 76
+                }
+            ]
+        }
+    },
+    {
+        "name": "Scottie Pippen Behind the Back Escape",
+        "category": "escape_moves",
+        "introduced_season": 1,
+        "requirements": {
+            "logical_operator": "ALL",
+            "conditions": [
+                {
+                    "attribute": "ball_handle",
+                    "operator": ">=",
+                    "value": 75
+                },
+                {
+                    "attribute": "height",
+                    "operator": ">=",
+                    "value": 69
+                },
+                {
+                    "attribute": "height",
+                    "operator": "<=",
+                    "value": 81
+                }
+            ]
+        }
+    },
+    {
+        "name": "Shai Gilgeous-Alexander Behind the Back Escape",
+        "category": "escape_moves",
+        "introduced_season": 1,
+        "requirements": {
+            "logical_operator": "ALL",
+            "conditions": [
+                {
+                    "attribute": "ball_handle",
+                    "operator": ">=",
+                    "value": 91
+                },
+                {
+                    "attribute": "height",
+                    "operator": ">=",
+                    "value": 69
+                },
+                {
+                    "attribute": "height",
+                    "operator": "<=",
+                    "value": 81
+                }
+            ]
+        }
+    },
+    {
+        "name": "Stephen Curry Behind the Back Escape",
+        "category": "escape_moves",
+        "introduced_season": 1,
+        "requirements": {
+            "logical_operator": "ALL",
+            "conditions": [
+                {
+                    "attribute": "ball_handle",
+                    "operator": ">=",
+                    "value": 92
+                },
+                {
+                    "attribute": "height",
+                    "operator": ">=",
+                    "value": 69
+                },
+                {
+                    "attribute": "height",
+                    "operator": "<=",
+                    "value": 76
+                }
+            ]
+        }
+    },
+    {
+        "name": "Trae Young Behind the Back Escape",
+        "category": "escape_moves",
+        "introduced_season": 1,
+        "requirements": {
+            "logical_operator": "ALL",
+            "conditions": [
+                {
+                    "attribute": "ball_handle",
+                    "operator": ">=",
+                    "value": 92
+                },
+                {
+                    "attribute": "height",
+                    "operator": ">=",
+                    "value": 69
+                },
+                {
+                    "attribute": "height",
+                    "operator": "<=",
+                    "value": 76
+                }
+            ]
+        }
+    },
+    {
+        "name": "Tyrese Maxey Behind the Back Escape",
+        "category": "escape_moves",
+        "introduced_season": 1,
+        "requirements": {
+            "logical_operator": "ALL",
+            "conditions": [
+                {
+                    "attribute": "ball_handle",
+                    "operator": ">=",
+                    "value": 82
+                },
+                {
+                    "attribute": "height",
+                    "operator": ">=",
+                    "value": 69
+                },
+                {
+                    "attribute": "height",
+                    "operator": "<=",
+                    "value": 81
+                }
+            ]
+        }
+    },
+    {
+        "name": "Zach LaVine Behind the Back Escape",
+        "category": "escape_moves",
+        "introduced_season": 1,
+        "requirements": {
+            "logical_operator": "ALL",
+            "conditions": [
+                {
+                    "attribute": "ball_handle",
+                    "operator": ">=",
+                    "value": 85
+                },
+                {
+                    "attribute": "height",
+                    "operator": ">=",
+                    "value": 69
+                },
+                {
+                    "attribute": "height",
+                    "operator": "<=",
+                    "value": 81
+                }
+            ]
+        }
+    },
+    {
+        "name": "Allen Iverson Between Legs Escape",
+        "category": "escape_moves",
+        "introduced_season": 1,
+        "requirements": {
+            "logical_operator": "ALL",
+            "conditions": [
+                {
+                    "attribute": "ball_handle",
+                    "operator": ">=",
+                    "value": 85
+                },
+                {
+                    "attribute": "height",
+                    "operator": ">=",
+                    "value": 69
+                },
+                {
+                    "attribute": "height",
+                    "operator": "<=",
+                    "value": 76
+                }
+            ]
+        }
+    },
+    {
+        "name": "Anthony Edwards Between Legs Escape",
+        "category": "escape_moves",
+        "introduced_season": 1,
+        "requirements": {
+            "logical_operator": "ALL",
+            "conditions": [
+                {
+                    "attribute": "ball_handle",
+                    "operator": ">=",
+                    "value": 76
+                },
+                {
+                    "attribute": "height",
+                    "operator": ">=",
+                    "value": 69
+                },
+                {
+                    "attribute": "height",
+                    "operator": "<=",
+                    "value": 81
+                }
+            ]
+        }
+    },
+    {
+        "name": "Basic Between Legs Escape",
+        "category": "escape_moves",
+        "introduced_season": 1,
+        "requirements": {
+            "logical_operator": "ALL",
+            "conditions": [
+                {
+                    "attribute": "ball_handle",
+                    "operator": ">=",
+                    "value": 0
+                },
+                {
+                    "attribute": "height",
+                    "operator": ">=",
+                    "value": 69
+                },
+                {
+                    "attribute": "height",
+                    "operator": "<=",
+                    "value": 88
+                }
+            ]
+        }
+    },
+    {
+        "name": "Chris Paul Between Legs Escape",
+        "category": "escape_moves",
+        "introduced_season": 1,
+        "requirements": {
+            "logical_operator": "ALL",
+            "conditions": [
+                {
+                    "attribute": "ball_handle",
+                    "operator": ">=",
+                    "value": 80
+                },
+                {
+                    "attribute": "height",
+                    "operator": ">=",
+                    "value": 69
+                },
+                {
+                    "attribute": "height",
+                    "operator": "<=",
+                    "value": 81
+                }
+            ]
+        }
+    },
+    {
+        "name": "Coby White Between Legs Escape",
+        "category": "escape_moves",
+        "introduced_season": 1,
+        "requirements": {
+            "logical_operator": "ALL",
+            "conditions": [
+                {
+                    "attribute": "ball_handle",
+                    "operator": ">=",
+                    "value": 85
+                },
+                {
+                    "attribute": "height",
+                    "operator": ">=",
+                    "value": 69
+                },
+                {
+                    "attribute": "height",
+                    "operator": "<=",
+                    "value": 81
+                }
+            ]
+        }
+    },
+    {
+        "name": "Damian Lillard Between Legs Escape",
+        "category": "escape_moves",
+        "introduced_season": 1,
+        "requirements": {
+            "logical_operator": "ALL",
+            "conditions": [
+                {
+                    "attribute": "ball_handle",
+                    "operator": ">=",
+                    "value": 90
+                },
+                {
+                    "attribute": "height",
+                    "operator": ">=",
+                    "value": 69
+                },
+                {
+                    "attribute": "height",
+                    "operator": "<=",
+                    "value": 76
+                }
+            ]
+        }
+    },
+    {
+        "name": "Darius Garland Between Legs Escape",
+        "category": "escape_moves",
+        "introduced_season": 1,
+        "requirements": {
+            "logical_operator": "ALL",
+            "conditions": [
+                {
+                    "attribute": "ball_handle",
+                    "operator": ">=",
+                    "value": 84
+                },
+                {
+                    "attribute": "height",
+                    "operator": ">=",
+                    "value": 69
+                },
+                {
+                    "attribute": "height",
+                    "operator": "<=",
+                    "value": 76
+                }
+            ]
+        }
+    },
+    {
+        "name": "Ja Morant Between Legs Escape",
+        "category": "escape_moves",
+        "introduced_season": 1,
+        "requirements": {
+            "logical_operator": "ALL",
+            "conditions": [
+                {
+                    "attribute": "ball_handle",
+                    "operator": ">=",
+                    "value": 86
+                },
+                {
+                    "attribute": "height",
+                    "operator": ">=",
+                    "value": 69
+                },
+                {
+                    "attribute": "height",
+                    "operator": "<=",
+                    "value": 76
+                }
+            ]
+        }
+    },
+    {
+        "name": "James Harden Between Legs Escape",
+        "category": "escape_moves",
+        "introduced_season": 1,
+        "requirements": {
+            "logical_operator": "ALL",
+            "conditions": [
+                {
+                    "attribute": "ball_handle",
+                    "operator": ">=",
+                    "value": 86
+                },
+                {
+                    "attribute": "height",
+                    "operator": ">=",
+                    "value": 69
+                },
+                {
+                    "attribute": "height",
+                    "operator": "<=",
+                    "value": 81
+                }
+            ]
+        }
+    },
+    {
+        "name": "Jayson Tatum Between Legs Escape",
+        "category": "escape_moves",
+        "introduced_season": 1,
+        "requirements": {
+            "logical_operator": "ALL",
+            "conditions": [
+                {
+                    "attribute": "ball_handle",
+                    "operator": ">=",
+                    "value": 75
+                },
+                {
+                    "attribute": "height",
+                    "operator": ">=",
+                    "value": 69
+                },
+                {
+                    "attribute": "height",
+                    "operator": "<=",
+                    "value": 81
+                }
+            ]
+        }
+    },
+    {
+        "name": "Jimmy Butler Between Legs Escape",
+        "category": "escape_moves",
+        "introduced_season": 1,
+        "requirements": {
+            "logical_operator": "ALL",
+            "conditions": [
+                {
+                    "attribute": "ball_handle",
+                    "operator": ">=",
+                    "value": 80
+                },
+                {
+                    "attribute": "height",
+                    "operator": ">=",
+                    "value": 69
+                },
+                {
+                    "attribute": "height",
+                    "operator": "<=",
+                    "value": 81
+                }
+            ]
+        }
+    },
+    {
+        "name": "Joel Embiid Between Legs Escape",
+        "category": "escape_moves",
+        "introduced_season": 1,
+        "requirements": {
+            "logical_operator": "ALL",
+            "conditions": [
+                {
+                    "attribute": "ball_handle",
+                    "operator": ">=",
+                    "value": 55
+                },
+                {
+                    "attribute": "height",
+                    "operator": ">=",
+                    "value": 82
+                },
+                {
+                    "attribute": "height",
+                    "operator": "<=",
+                    "value": 88
+                }
+            ]
+        }
+    },
+    {
+        "name": "Josh Giddey Between Legs Escape",
+        "category": "escape_moves",
+        "introduced_season": 1,
+        "requirements": {
+            "logical_operator": "ALL",
+            "conditions": [
+                {
+                    "attribute": "ball_handle",
+                    "operator": ">=",
+                    "value": 76
+                },
+                {
+                    "attribute": "height",
+                    "operator": ">=",
+                    "value": 69
+                },
+                {
+                    "attribute": "height",
+                    "operator": "<=",
+                    "value": 81
+                }
+            ]
+        }
+    },
+    {
+        "name": "Kemba Walker Between Legs Escape",
+        "category": "escape_moves",
+        "introduced_season": 1,
+        "requirements": {
+            "logical_operator": "ALL",
+            "conditions": [
+                {
+                    "attribute": "ball_handle",
+                    "operator": ">=",
+                    "value": 89
+                },
+                {
+                    "attribute": "height",
+                    "operator": ">=",
+                    "value": 69
+                },
+                {
+                    "attribute": "height",
+                    "operator": "<=",
+                    "value": 76
+                }
+            ]
+        }
+    },
+    {
+        "name": "Kevin Durant Between Legs Escape",
+        "category": "escape_moves",
+        "introduced_season": 1,
+        "requirements": {
+            "logical_operator": "ALL",
+            "conditions": [
+                {
+                    "attribute": "ball_handle",
+                    "operator": ">=",
+                    "value": 70
+                },
+                {
+                    "attribute": "height",
+                    "operator": ">=",
+                    "value": 77
+                },
+                {
+                    "attribute": "height",
+                    "operator": "<=",
+                    "value": 88
+                }
+            ]
+        }
+    },
+    {
+        "name": "Kobe Bryant Between Legs Escape",
+        "category": "escape_moves",
+        "introduced_season": 1,
+        "requirements": {
+            "logical_operator": "ALL",
+            "conditions": [
+                {
+                    "attribute": "ball_handle",
+                    "operator": ">=",
+                    "value": 88
+                },
+                {
+                    "attribute": "height",
+                    "operator": ">=",
+                    "value": 77
+                },
+                {
+                    "attribute": "height",
+                    "operator": "<=",
+                    "value": 81
+                }
+            ]
+        }
+    },
+    {
+        "name": "Kyrie Irving Between Legs Escape",
+        "category": "escape_moves",
+        "introduced_season": 1,
+        "requirements": {
+            "logical_operator": "ALL",
+            "conditions": [
+                {
+                    "attribute": "ball_handle",
+                    "operator": ">=",
+                    "value": 90
+                },
+                {
+                    "attribute": "height",
+                    "operator": ">=",
+                    "value": 69
+                },
+                {
+                    "attribute": "height",
+                    "operator": "<=",
+                    "value": 76
+                }
+            ]
+        }
+    },
+    {
+        "name": "LeBron James Between Legs Escape",
+        "category": "escape_moves",
+        "introduced_season": 1,
+        "requirements": {
+            "logical_operator": "ALL",
+            "conditions": [
+                {
+                    "attribute": "ball_handle",
+                    "operator": ">=",
+                    "value": 80
+                },
+                {
+                    "attribute": "height",
+                    "operator": ">=",
+                    "value": 69
+                },
+                {
+                    "attribute": "height",
+                    "operator": "<=",
+                    "value": 81
+                }
+            ]
+        }
+    },
+    {
+        "name": "Luka Doncic Between Legs Escape",
+        "category": "escape_moves",
+        "introduced_season": 1,
+        "requirements": {
+            "logical_operator": "ALL",
+            "conditions": [
+                {
+                    "attribute": "ball_handle",
+                    "operator": ">=",
+                    "value": 84
+                },
+                {
+                    "attribute": "height",
+                    "operator": ">=",
+                    "value": 69
+                },
+                {
+                    "attribute": "height",
+                    "operator": "<=",
+                    "value": 81
+                }
+            ]
+        }
+    },
+    {
+        "name": "Normal Between Legs Escape",
+        "category": "escape_moves",
+        "introduced_season": 1,
+        "requirements": {
+            "logical_operator": "ALL",
+            "conditions": [
+                {
+                    "attribute": "ball_handle",
+                    "operator": ">=",
+                    "value": 40
+                },
+                {
+                    "attribute": "height",
+                    "operator": ">=",
+                    "value": 69
+                },
+                {
+                    "attribute": "height",
+                    "operator": "<=",
+                    "value": 88
+                }
+            ]
+        }
+    },
+    {
+        "name": "Paul George Between Legs Escape",
+        "category": "escape_moves",
+        "introduced_season": 1,
+        "requirements": {
+            "logical_operator": "ALL",
+            "conditions": [
+                {
+                    "attribute": "ball_handle",
+                    "operator": ">=",
+                    "value": 86
+                },
+                {
+                    "attribute": "height",
+                    "operator": ">=",
+                    "value": 69
+                },
+                {
+                    "attribute": "height",
+                    "operator": "<=",
+                    "value": 81
+                }
+            ]
+        }
+    },
+    {
+        "name": "Pro Between Legs Escape",
+        "category": "escape_moves",
+        "introduced_season": 1,
+        "requirements": {
+            "logical_operator": "ALL",
+            "conditions": [
+                {
+                    "attribute": "ball_handle",
+                    "operator": ">=",
+                    "value": 70
+                },
+                {
+                    "attribute": "height",
+                    "operator": ">=",
+                    "value": 69
+                },
+                {
+                    "attribute": "height",
+                    "operator": "<=",
+                    "value": 88
+                }
+            ]
+        }
+    },
+    {
+        "name": "Shai Gilgeous-Alexander Between Legs Escape",
+        "category": "escape_moves",
+        "introduced_season": 1,
+        "requirements": {
+            "logical_operator": "ALL",
+            "conditions": [
+                {
+                    "attribute": "ball_handle",
+                    "operator": ">=",
+                    "value": 91
+                },
+                {
+                    "attribute": "height",
+                    "operator": ">=",
+                    "value": 69
+                },
+                {
+                    "attribute": "height",
+                    "operator": "<=",
+                    "value": 81
+                }
+            ]
+        }
+    },
+    {
+        "name": "Stephen Curry Between Legs Escape",
+        "category": "escape_moves",
+        "introduced_season": 1,
+        "requirements": {
+            "logical_operator": "ALL",
+            "conditions": [
+                {
+                    "attribute": "ball_handle",
+                    "operator": ">=",
+                    "value": 92
+                },
+                {
+                    "attribute": "height",
+                    "operator": ">=",
+                    "value": 69
+                },
+                {
+                    "attribute": "height",
+                    "operator": "<=",
+                    "value": 76
+                }
+            ]
+        }
+    },
+    {
+        "name": "Trae Young Between Legs Escape",
+        "category": "escape_moves",
+        "introduced_season": 1,
+        "requirements": {
+            "logical_operator": "ALL",
+            "conditions": [
+                {
+                    "attribute": "ball_handle",
+                    "operator": ">=",
+                    "value": 92
+                },
+                {
+                    "attribute": "height",
+                    "operator": ">=",
+                    "value": 69
+                },
+                {
+                    "attribute": "height",
+                    "operator": "<=",
+                    "value": 76
+                }
+            ]
+        }
+    },
+    {
+        "name": "Zach LaVine Between Legs Escape",
+        "category": "escape_moves",
+        "introduced_season": 1,
+        "requirements": {
+            "logical_operator": "ALL",
+            "conditions": [
+                {
+                    "attribute": "ball_handle",
+                    "operator": ">=",
+                    "value": 85
+                },
+                {
+                    "attribute": "height",
+                    "operator": ">=",
+                    "value": 69
+                },
+                {
+                    "attribute": "height",
+                    "operator": "<=",
+                    "value": 81
+                }
+            ]
+        }
+    },
+    {
+        "name": "Allen Iverson Crossover Escape",
+        "category": "escape_moves",
+        "introduced_season": 1,
+        "requirements": {
+            "logical_operator": "ALL",
+            "conditions": [
+                {
+                    "attribute": "ball_handle",
+                    "operator": ">=",
+                    "value": 85
+                },
+                {
+                    "attribute": "height",
+                    "operator": ">=",
+                    "value": 69
+                },
+                {
+                    "attribute": "height",
+                    "operator": "<=",
+                    "value": 76
+                }
+            ]
+        }
+    },
+    {
+        "name": "Anfernee Simons Crossover Escape",
+        "category": "escape_moves",
+        "introduced_season": 1,
+        "requirements": {
+            "logical_operator": "ALL",
+            "conditions": [
+                {
+                    "attribute": "ball_handle",
+                    "operator": ">=",
+                    "value": 80
+                },
+                {
+                    "attribute": "height",
+                    "operator": ">=",
+                    "value": 69
+                },
+                {
+                    "attribute": "height",
+                    "operator": "<=",
+                    "value": 76
+                }
+            ]
+        }
+    },
+    {
+        "name": "Anthony Edwards Crossover Escape",
+        "category": "escape_moves",
+        "introduced_season": 1,
+        "requirements": {
+            "logical_operator": "ALL",
+            "conditions": [
+                {
+                    "attribute": "ball_handle",
+                    "operator": ">=",
+                    "value": 76
+                },
+                {
+                    "attribute": "height",
+                    "operator": ">=",
+                    "value": 69
+                },
+                {
+                    "attribute": "height",
+                    "operator": "<=",
+                    "value": 81
+                }
+            ]
+        }
+    },
+    {
+        "name": "Basic Crossover Escape",
+        "category": "escape_moves",
+        "introduced_season": 1,
+        "requirements": {
+            "logical_operator": "ALL",
+            "conditions": [
+                {
+                    "attribute": "ball_handle",
+                    "operator": ">=",
+                    "value": 0
+                },
+                {
+                    "attribute": "height",
+                    "operator": ">=",
+                    "value": 69
+                },
+                {
+                    "attribute": "height",
+                    "operator": "<=",
+                    "value": 88
+                }
+            ]
+        }
+    },
+    {
+        "name": "Chris Paul Crossover Escape",
+        "category": "escape_moves",
+        "introduced_season": 1,
+        "requirements": {
+            "logical_operator": "ALL",
+            "conditions": [
+                {
+                    "attribute": "ball_handle",
+                    "operator": ">=",
+                    "value": 80
+                },
+                {
+                    "attribute": "height",
+                    "operator": ">=",
+                    "value": 69
+                },
+                {
+                    "attribute": "height",
+                    "operator": "<=",
+                    "value": 81
+                }
+            ]
+        }
+    },
+    {
+        "name": "Damian Lillard Crossover Escape",
+        "category": "escape_moves",
+        "introduced_season": 1,
+        "requirements": {
+            "logical_operator": "ALL",
+            "conditions": [
+                {
+                    "attribute": "ball_handle",
+                    "operator": ">=",
+                    "value": 90
+                },
+                {
+                    "attribute": "height",
+                    "operator": ">=",
+                    "value": 69
+                },
+                {
+                    "attribute": "height",
+                    "operator": "<=",
+                    "value": 76
+                }
+            ]
+        }
+    },
+    {
+        "name": "Darius Garland Crossover Escape",
+        "category": "escape_moves",
+        "introduced_season": 1,
+        "requirements": {
+            "logical_operator": "ALL",
+            "conditions": [
+                {
+                    "attribute": "ball_handle",
+                    "operator": ">=",
+                    "value": 84
+                },
+                {
+                    "attribute": "height",
+                    "operator": ">=",
+                    "value": 69
+                },
+                {
+                    "attribute": "height",
+                    "operator": "<=",
+                    "value": 76
+                }
+            ]
+        }
+    },
+    {
+        "name": "Donovan Mitchell Crossover Escape",
+        "category": "escape_moves",
+        "introduced_season": 1,
+        "requirements": {
+            "logical_operator": "ALL",
+            "conditions": [
+                {
+                    "attribute": "ball_handle",
+                    "operator": ">=",
+                    "value": 80
+                },
+                {
+                    "attribute": "height",
+                    "operator": ">=",
+                    "value": 69
+                },
+                {
+                    "attribute": "height",
+                    "operator": "<=",
+                    "value": 81
+                }
+            ]
+        }
+    },
+    {
+        "name": "Ja Morant Crossover Escape",
+        "category": "escape_moves",
+        "introduced_season": 1,
+        "requirements": {
+            "logical_operator": "ALL",
+            "conditions": [
+                {
+                    "attribute": "ball_handle",
+                    "operator": ">=",
+                    "value": 86
+                },
+                {
+                    "attribute": "height",
+                    "operator": ">=",
+                    "value": 69
+                },
+                {
+                    "attribute": "height",
+                    "operator": "<=",
+                    "value": 76
+                }
+            ]
+        }
+    },
+    {
+        "name": "James Harden Crossover Escape",
+        "category": "escape_moves",
+        "introduced_season": 1,
+        "requirements": {
+            "logical_operator": "ALL",
+            "conditions": [
+                {
+                    "attribute": "ball_handle",
+                    "operator": ">=",
+                    "value": 86
+                },
+                {
+                    "attribute": "height",
+                    "operator": ">=",
+                    "value": 69
+                },
+                {
+                    "attribute": "height",
+                    "operator": "<=",
+                    "value": 81
+                }
+            ]
+        }
+    },
+    {
+        "name": "Jayson Tatum Crossover Escape",
+        "category": "escape_moves",
+        "introduced_season": 1,
+        "requirements": {
+            "logical_operator": "ALL",
+            "conditions": [
+                {
+                    "attribute": "ball_handle",
+                    "operator": ">=",
+                    "value": 75
+                },
+                {
+                    "attribute": "height",
+                    "operator": ">=",
+                    "value": 69
+                },
+                {
+                    "attribute": "height",
+                    "operator": "<=",
+                    "value": 81
+                }
+            ]
+        }
+    },
+    {
+        "name": "Jimmy Butler Crossover Escape",
+        "category": "escape_moves",
+        "introduced_season": 1,
+        "requirements": {
+            "logical_operator": "ALL",
+            "conditions": [
+                {
+                    "attribute": "ball_handle",
+                    "operator": ">=",
+                    "value": 80
+                },
+                {
+                    "attribute": "height",
+                    "operator": ">=",
+                    "value": 69
+                },
+                {
+                    "attribute": "height",
+                    "operator": "<=",
+                    "value": 81
+                }
+            ]
+        }
+    },
+    {
+        "name": "Joel Embiid Crossover Escape",
+        "category": "escape_moves",
+        "introduced_season": 1,
+        "requirements": {
+            "logical_operator": "ALL",
+            "conditions": [
+                {
+                    "attribute": "ball_handle",
+                    "operator": ">=",
+                    "value": 55
+                },
+                {
+                    "attribute": "height",
+                    "operator": ">=",
+                    "value": 82
+                },
+                {
+                    "attribute": "height",
+                    "operator": "<=",
+                    "value": 88
+                }
+            ]
+        }
+    },
+    {
+        "name": "Kemba Walker Crossover Escape",
+        "category": "escape_moves",
+        "introduced_season": 1,
+        "requirements": {
+            "logical_operator": "ALL",
+            "conditions": [
+                {
+                    "attribute": "ball_handle",
+                    "operator": ">=",
+                    "value": 89
+                },
+                {
+                    "attribute": "height",
+                    "operator": ">=",
+                    "value": 69
+                },
+                {
+                    "attribute": "height",
+                    "operator": "<=",
+                    "value": 76
+                }
+            ]
+        }
+    },
+    {
+        "name": "Kevin Durant Crossover Escape",
+        "category": "escape_moves",
+        "introduced_season": 1,
+        "requirements": {
+            "logical_operator": "ALL",
+            "conditions": [
+                {
+                    "attribute": "ball_handle",
+                    "operator": ">=",
+                    "value": 70
+                },
+                {
+                    "attribute": "height",
+                    "operator": ">=",
+                    "value": 77
+                },
+                {
+                    "attribute": "height",
+                    "operator": "<=",
+                    "value": 88
+                }
+            ]
+        }
+    },
+    {
+        "name": "Kobe Bryant Crossover Escape",
+        "category": "escape_moves",
+        "introduced_season": 1,
+        "requirements": {
+            "logical_operator": "ALL",
+            "conditions": [
+                {
+                    "attribute": "ball_handle",
+                    "operator": ">=",
+                    "value": 88
+                },
+                {
+                    "attribute": "height",
+                    "operator": ">=",
+                    "value": 77
+                },
+                {
+                    "attribute": "height",
+                    "operator": "<=",
+                    "value": 81
+                }
+            ]
+        }
+    },
+    {
+        "name": "Kyrie Irving Crossover Escape",
+        "category": "escape_moves",
+        "introduced_season": 1,
+        "requirements": {
+            "logical_operator": "ALL",
+            "conditions": [
+                {
+                    "attribute": "ball_handle",
+                    "operator": ">=",
+                    "value": 90
+                },
+                {
+                    "attribute": "height",
+                    "operator": ">=",
+                    "value": 69
+                },
+                {
+                    "attribute": "height",
+                    "operator": "<=",
+                    "value": 76
+                }
+            ]
+        }
+    },
+    {
+        "name": "LeBron James Crossover Escape",
+        "category": "escape_moves",
+        "introduced_season": 1,
+        "requirements": {
+            "logical_operator": "ALL",
+            "conditions": [
+                {
+                    "attribute": "ball_handle",
+                    "operator": ">=",
+                    "value": 80
+                },
+                {
+                    "attribute": "height",
+                    "operator": ">=",
+                    "value": 69
+                },
+                {
+                    "attribute": "height",
+                    "operator": "<=",
+                    "value": 81
+                }
+            ]
+        }
+    },
+    {
+        "name": "Luka Doncic Crossover Escape",
+        "category": "escape_moves",
+        "introduced_season": 1,
+        "requirements": {
+            "logical_operator": "ALL",
+            "conditions": [
+                {
+                    "attribute": "ball_handle",
+                    "operator": ">=",
+                    "value": 84
+                },
+                {
+                    "attribute": "height",
+                    "operator": ">=",
+                    "value": 69
+                },
+                {
+                    "attribute": "height",
+                    "operator": "<=",
+                    "value": 81
+                }
+            ]
+        }
+    },
+    {
+        "name": "Normal Crossover Escape",
+        "category": "escape_moves",
+        "introduced_season": 1,
+        "requirements": {
+            "logical_operator": "ALL",
+            "conditions": [
+                {
+                    "attribute": "ball_handle",
+                    "operator": ">=",
+                    "value": 40
+                },
+                {
+                    "attribute": "height",
+                    "operator": ">=",
+                    "value": 69
+                },
+                {
+                    "attribute": "height",
+                    "operator": "<=",
+                    "value": 88
+                }
+            ]
+        }
+    },
+    {
+        "name": "Paul George Crossover Escape",
+        "category": "escape_moves",
+        "introduced_season": 1,
+        "requirements": {
+            "logical_operator": "ALL",
+            "conditions": [
+                {
+                    "attribute": "ball_handle",
+                    "operator": ">=",
+                    "value": 86
+                },
+                {
+                    "attribute": "height",
+                    "operator": ">=",
+                    "value": 69
+                },
+                {
+                    "attribute": "height",
+                    "operator": "<=",
+                    "value": 81
+                }
+            ]
+        }
+    },
+    {
+        "name": "Pro Crossover Escape",
+        "category": "escape_moves",
+        "introduced_season": 1,
+        "requirements": {
+            "logical_operator": "ALL",
+            "conditions": [
+                {
+                    "attribute": "ball_handle",
+                    "operator": ">=",
+                    "value": 70
+                },
+                {
+                    "attribute": "height",
+                    "operator": ">=",
+                    "value": 69
+                },
+                {
+                    "attribute": "height",
+                    "operator": "<=",
+                    "value": 88
+                }
+            ]
+        }
+    },
+    {
+        "name": "Shai Gilgeous-Alexander Crossover Escape",
+        "category": "escape_moves",
+        "introduced_season": 1,
+        "requirements": {
+            "logical_operator": "ALL",
+            "conditions": [
+                {
+                    "attribute": "ball_handle",
+                    "operator": ">=",
+                    "value": 91
+                },
+                {
+                    "attribute": "height",
+                    "operator": ">=",
+                    "value": 69
+                },
+                {
+                    "attribute": "height",
+                    "operator": "<=",
+                    "value": 81
+                }
+            ]
+        }
+    },
+    {
+        "name": "Stephen Curry Crossover Escape",
+        "category": "escape_moves",
+        "introduced_season": 1,
+        "requirements": {
+            "logical_operator": "ALL",
+            "conditions": [
+                {
+                    "attribute": "ball_handle",
+                    "operator": ">=",
+                    "value": 92
+                },
+                {
+                    "attribute": "height",
+                    "operator": ">=",
+                    "value": 69
+                },
+                {
+                    "attribute": "height",
+                    "operator": "<=",
+                    "value": 76
+                }
+            ]
+        }
+    },
+    {
+        "name": "Trae Young Crossover Escape",
+        "category": "escape_moves",
+        "introduced_season": 1,
+        "requirements": {
+            "logical_operator": "ALL",
+            "conditions": [
+                {
+                    "attribute": "ball_handle",
+                    "operator": ">=",
+                    "value": 92
+                },
+                {
+                    "attribute": "height",
+                    "operator": ">=",
+                    "value": 69
+                },
+                {
+                    "attribute": "height",
+                    "operator": "<=",
+                    "value": 76
+                }
+            ]
+        }
+    },
+    {
+        "name": "Zach LaVine Crossover Escape",
+        "category": "escape_moves",
+        "introduced_season": 1,
+        "requirements": {
+            "logical_operator": "ALL",
+            "conditions": [
+                {
+                    "attribute": "ball_handle",
+                    "operator": ">=",
+                    "value": 85
+                },
+                {
+                    "attribute": "height",
+                    "operator": ">=",
+                    "value": 69
+                },
+                {
+                    "attribute": "height",
+                    "operator": "<=",
+                    "value": 81
+                }
+            ]
+        }
+    },
+    {
+        "name": "Anthony Edwards Hesitation Escape",
+        "category": "escape_moves",
+        "introduced_season": 1,
+        "requirements": {
+            "logical_operator": "ALL",
+            "conditions": [
+                {
+                    "attribute": "ball_handle",
+                    "operator": ">=",
+                    "value": 76
+                },
+                {
+                    "attribute": "height",
+                    "operator": ">=",
+                    "value": 69
+                },
+                {
+                    "attribute": "height",
+                    "operator": "<=",
+                    "value": 81
+                }
+            ]
+        }
+    },
+    {
+        "name": "Basic Hesitation Escape",
+        "category": "escape_moves",
+        "introduced_season": 1,
+        "requirements": {
+            "logical_operator": "ALL",
+            "conditions": [
+                {
+                    "attribute": "ball_handle",
+                    "operator": ">=",
+                    "value": 0
+                },
+                {
+                    "attribute": "height",
+                    "operator": ">=",
+                    "value": 69
+                },
+                {
+                    "attribute": "height",
+                    "operator": "<=",
+                    "value": 88
+                }
+            ]
+        }
+    },
+    {
+        "name": "Bradley Beal Hesitation Escape",
+        "category": "escape_moves",
+        "introduced_season": 1,
+        "requirements": {
+            "logical_operator": "ALL",
+            "conditions": [
+                {
+                    "attribute": "ball_handle",
+                    "operator": ">=",
+                    "value": 84
+                },
+                {
+                    "attribute": "height",
+                    "operator": ">=",
+                    "value": 69
+                },
+                {
+                    "attribute": "height",
+                    "operator": "<=",
+                    "value": 76
+                }
+            ]
+        }
+    },
+    {
+        "name": "Chris Paul Hesitation Escape",
+        "category": "escape_moves",
+        "introduced_season": 1,
+        "requirements": {
+            "logical_operator": "ALL",
+            "conditions": [
+                {
+                    "attribute": "ball_handle",
+                    "operator": ">=",
+                    "value": 80
+                },
+                {
+                    "attribute": "height",
+                    "operator": ">=",
+                    "value": 69
+                },
+                {
+                    "attribute": "height",
+                    "operator": "<=",
+                    "value": 81
+                }
+            ]
+        }
+    },
+    {
+        "name": "Coby White Hesitation Escape",
+        "category": "escape_moves",
+        "introduced_season": 1,
+        "requirements": {
+            "logical_operator": "ALL",
+            "conditions": [
+                {
+                    "attribute": "ball_handle",
+                    "operator": ">=",
+                    "value": 85
+                },
+                {
+                    "attribute": "height",
+                    "operator": ">=",
+                    "value": 69
+                },
+                {
+                    "attribute": "height",
+                    "operator": "<=",
+                    "value": 81
+                }
+            ]
+        }
+    },
+    {
+        "name": "Darius Garland Hesitation Escape",
+        "category": "escape_moves",
+        "introduced_season": 1,
+        "requirements": {
+            "logical_operator": "ALL",
+            "conditions": [
+                {
+                    "attribute": "ball_handle",
+                    "operator": ">=",
+                    "value": 84
+                },
+                {
+                    "attribute": "height",
+                    "operator": ">=",
+                    "value": 69
+                },
+                {
+                    "attribute": "height",
+                    "operator": "<=",
+                    "value": 76
+                }
+            ]
+        }
+    },
+    {
+        "name": "DeMar DeRozan Hesitation Escape",
+        "category": "escape_moves",
+        "introduced_season": 1,
+        "requirements": {
+            "logical_operator": "ALL",
+            "conditions": [
+                {
+                    "attribute": "ball_handle",
+                    "operator": ">=",
+                    "value": 75
+                },
+                {
+                    "attribute": "height",
+                    "operator": ">=",
+                    "value": 69
+                },
+                {
+                    "attribute": "height",
+                    "operator": "<=",
+                    "value": 81
+                }
+            ]
+        }
+    },
+    {
+        "name": "Ja Morant Hesitation Escape",
+        "category": "escape_moves",
+        "introduced_season": 1,
+        "requirements": {
+            "logical_operator": "ALL",
+            "conditions": [
+                {
+                    "attribute": "ball_handle",
+                    "operator": ">=",
+                    "value": 86
+                },
+                {
+                    "attribute": "height",
+                    "operator": ">=",
+                    "value": 69
+                },
+                {
+                    "attribute": "height",
+                    "operator": "<=",
+                    "value": 76
+                }
+            ]
+        }
+    },
+    {
+        "name": "James Harden Hesitation Escape",
+        "category": "escape_moves",
+        "introduced_season": 1,
+        "requirements": {
+            "logical_operator": "ALL",
+            "conditions": [
+                {
+                    "attribute": "ball_handle",
+                    "operator": ">=",
+                    "value": 86
+                },
+                {
+                    "attribute": "height",
+                    "operator": ">=",
+                    "value": 69
+                },
+                {
+                    "attribute": "height",
+                    "operator": "<=",
+                    "value": 81
+                }
+            ]
+        }
+    },
+    {
+        "name": "Jayson Tatum Hesitation Escape",
+        "category": "escape_moves",
+        "introduced_season": 1,
+        "requirements": {
+            "logical_operator": "ALL",
+            "conditions": [
+                {
+                    "attribute": "ball_handle",
+                    "operator": ">=",
+                    "value": 75
+                },
+                {
+                    "attribute": "height",
+                    "operator": ">=",
+                    "value": 69
+                },
+                {
+                    "attribute": "height",
+                    "operator": "<=",
+                    "value": 81
+                }
+            ]
+        }
+    },
+    {
+        "name": "Jimmy Butler Hesitation Escape",
+        "category": "escape_moves",
+        "introduced_season": 1,
+        "requirements": {
+            "logical_operator": "ALL",
+            "conditions": [
+                {
+                    "attribute": "ball_handle",
+                    "operator": ">=",
+                    "value": 80
+                },
+                {
+                    "attribute": "height",
+                    "operator": ">=",
+                    "value": 69
+                },
+                {
+                    "attribute": "height",
+                    "operator": "<=",
+                    "value": 81
+                }
+            ]
+        }
+    },
+    {
+        "name": "Kevin Durant Hesitation Escape",
+        "category": "escape_moves",
+        "introduced_season": 1,
+        "requirements": {
+            "logical_operator": "ALL",
+            "conditions": [
+                {
+                    "attribute": "ball_handle",
+                    "operator": ">=",
+                    "value": 70
+                },
+                {
+                    "attribute": "height",
+                    "operator": ">=",
+                    "value": 77
+                },
+                {
+                    "attribute": "height",
+                    "operator": "<=",
+                    "value": 88
+                }
+            ]
+        }
+    },
+    {
+        "name": "Kobe Bryant Hesitation Escape",
+        "category": "escape_moves",
+        "introduced_season": 1,
+        "requirements": {
+            "logical_operator": "ALL",
+            "conditions": [
+                {
+                    "attribute": "ball_handle",
+                    "operator": ">=",
+                    "value": 88
+                },
+                {
+                    "attribute": "height",
+                    "operator": ">=",
+                    "value": 77
+                },
+                {
+                    "attribute": "height",
+                    "operator": "<=",
+                    "value": 81
+                }
+            ]
+        }
+    },
+    {
+        "name": "Kyrie Irving Hesitation Escape",
+        "category": "escape_moves",
+        "introduced_season": 1,
+        "requirements": {
+            "logical_operator": "ALL",
+            "conditions": [
+                {
+                    "attribute": "ball_handle",
+                    "operator": ">=",
+                    "value": 90
+                },
+                {
+                    "attribute": "height",
+                    "operator": ">=",
+                    "value": 69
+                },
+                {
+                    "attribute": "height",
+                    "operator": "<=",
+                    "value": 76
+                }
+            ]
+        }
+    },
+    {
+        "name": "Larry Bird Hesitation Escape",
+        "category": "escape_moves",
+        "introduced_season": 1,
+        "requirements": {
+            "logical_operator": "ALL",
+            "conditions": [
+                {
+                    "attribute": "ball_handle",
+                    "operator": ">=",
+                    "value": 70
+                },
+                {
+                    "attribute": "height",
+                    "operator": ">=",
+                    "value": 77
+                },
+                {
+                    "attribute": "height",
+                    "operator": "<=",
+                    "value": 88
+                }
+            ]
+        }
+    },
+    {
+        "name": "LeBron James Hesitation Escape",
+        "category": "escape_moves",
+        "introduced_season": 1,
+        "requirements": {
+            "logical_operator": "ALL",
+            "conditions": [
+                {
+                    "attribute": "ball_handle",
+                    "operator": ">=",
+                    "value": 80
+                },
+                {
+                    "attribute": "height",
+                    "operator": ">=",
+                    "value": 69
+                },
+                {
+                    "attribute": "height",
+                    "operator": "<=",
+                    "value": 81
+                }
+            ]
+        }
+    },
+    {
+        "name": "Luka Doncic Hesitation Escape",
+        "category": "escape_moves",
+        "introduced_season": 1,
+        "requirements": {
+            "logical_operator": "ALL",
+            "conditions": [
+                {
+                    "attribute": "ball_handle",
+                    "operator": ">=",
+                    "value": 84
+                },
+                {
+                    "attribute": "height",
+                    "operator": ">=",
+                    "value": 69
+                },
+                {
+                    "attribute": "height",
+                    "operator": "<=",
+                    "value": 81
+                }
+            ]
+        }
+    },
+    {
+        "name": "Normal Hesitation Escape",
+        "category": "escape_moves",
+        "introduced_season": 1,
+        "requirements": {
+            "logical_operator": "ALL",
+            "conditions": [
+                {
+                    "attribute": "ball_handle",
+                    "operator": ">=",
+                    "value": 40
+                },
+                {
+                    "attribute": "height",
+                    "operator": ">=",
+                    "value": 69
+                },
+                {
+                    "attribute": "height",
+                    "operator": "<=",
+                    "value": 88
+                }
+            ]
+        }
+    },
+    {
+        "name": "Paolo Banchero Hesitation Escape",
+        "category": "escape_moves",
+        "introduced_season": 1,
+        "requirements": {
+            "logical_operator": "ALL",
+            "conditions": [
+                {
+                    "attribute": "ball_handle",
+                    "operator": ">=",
+                    "value": 75
+                },
+                {
+                    "attribute": "height",
+                    "operator": ">=",
+                    "value": 82
+                },
+                {
+                    "attribute": "height",
+                    "operator": "<=",
+                    "value": 88
+                }
+            ]
+        }
+    },
+    {
+        "name": "Paul George Hesitation Escape",
+        "category": "escape_moves",
+        "introduced_season": 1,
+        "requirements": {
+            "logical_operator": "ALL",
+            "conditions": [
+                {
+                    "attribute": "ball_handle",
+                    "operator": ">=",
+                    "value": 86
+                },
+                {
+                    "attribute": "height",
+                    "operator": ">=",
+                    "value": 69
+                },
+                {
+                    "attribute": "height",
+                    "operator": "<=",
+                    "value": 81
+                }
+            ]
+        }
+    },
+    {
+        "name": "Pro Hesitation Escape",
+        "category": "escape_moves",
+        "introduced_season": 1,
+        "requirements": {
+            "logical_operator": "ALL",
+            "conditions": [
+                {
+                    "attribute": "ball_handle",
+                    "operator": ">=",
+                    "value": 70
+                },
+                {
+                    "attribute": "height",
+                    "operator": ">=",
+                    "value": 69
+                },
+                {
+                    "attribute": "height",
+                    "operator": "<=",
+                    "value": 88
+                }
+            ]
+        }
+    },
+    {
+        "name": "Rajon Rondo Hesitation Escape",
+        "category": "escape_moves",
+        "introduced_season": 1,
+        "requirements": {
+            "logical_operator": "ALL",
+            "conditions": [
+                {
+                    "attribute": "ball_handle",
+                    "operator": ">=",
+                    "value": 75
+                },
+                {
+                    "attribute": "height",
+                    "operator": ">=",
+                    "value": 69
+                },
+                {
+                    "attribute": "height",
+                    "operator": "<=",
+                    "value": 81
+                }
+            ]
+        }
+    },
+    {
+        "name": "Scottie Pippen Hesitation Escape",
+        "category": "escape_moves",
+        "introduced_season": 1,
+        "requirements": {
+            "logical_operator": "ALL",
+            "conditions": [
+                {
+                    "attribute": "ball_handle",
+                    "operator": ">=",
+                    "value": 70
+                },
+                {
+                    "attribute": "height",
+                    "operator": ">=",
+                    "value": 69
+                },
+                {
+                    "attribute": "height",
+                    "operator": "<=",
+                    "value": 81
+                }
+            ]
+        }
+    },
+    {
+        "name": "Shai Gilgeous-Alexander Hesitation Escape",
+        "category": "escape_moves",
+        "introduced_season": 1,
+        "requirements": {
+            "logical_operator": "ALL",
+            "conditions": [
+                {
+                    "attribute": "ball_handle",
+                    "operator": ">=",
+                    "value": 91
+                },
+                {
+                    "attribute": "height",
+                    "operator": ">=",
+                    "value": 69
+                },
+                {
+                    "attribute": "height",
+                    "operator": "<=",
+                    "value": 81
+                }
+            ]
+        }
+    },
+    {
+        "name": "Stephen Curry Hesitation Escape",
+        "category": "escape_moves",
+        "introduced_season": 1,
+        "requirements": {
+            "logical_operator": "ALL",
+            "conditions": [
+                {
+                    "attribute": "ball_handle",
+                    "operator": ">=",
+                    "value": 92
+                },
+                {
+                    "attribute": "height",
+                    "operator": ">=",
+                    "value": 69
+                },
+                {
+                    "attribute": "height",
+                    "operator": "<=",
+                    "value": 76
+                }
+            ]
+        }
+    },
+    {
+        "name": "Zach LaVine Hesitation Escape",
+        "category": "escape_moves",
+        "introduced_season": 1,
+        "requirements": {
+            "logical_operator": "ALL",
+            "conditions": [
+                {
+                    "attribute": "ball_handle",
+                    "operator": ">=",
+                    "value": 85
+                },
+                {
+                    "attribute": "height",
+                    "operator": ">=",
+                    "value": 69
+                },
+                {
+                    "attribute": "height",
+                    "operator": "<=",
+                    "value": 81
+                }
+            ]
+        }
+    }
+]
