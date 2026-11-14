@@ -1,0 +1,1352 @@
+[
+    {
+        "name": "Andrew Wiggins Crossover Stepback",
+        "category": "step_backs",
+        "introduced_season": 1,
+        "requirements": {
+            "logical_operator": "ALL",
+            "conditions": [
+                {
+                    "attribute": "ball_handle",
+                    "operator": ">=",
+                    "value": 75
+                },
+                {
+                    "attribute": "height",
+                    "operator": ">=",
+                    "value": 69
+                },
+                {
+                    "attribute": "height",
+                    "operator": "<=",
+                    "value": 81
+                }
+            ]
+        }
+    },
+    {
+        "name": "Basic Crossover Stepback",
+        "category": "step_backs",
+        "introduced_season": 1,
+        "requirements": {
+            "logical_operator": "ALL",
+            "conditions": [
+                {
+                    "attribute": "ball_handle",
+                    "operator": ">=",
+                    "value": 0
+                },
+                {
+                    "attribute": "height",
+                    "operator": ">=",
+                    "value": 69
+                },
+                {
+                    "attribute": "height",
+                    "operator": "<=",
+                    "value": 88
+                }
+            ]
+        }
+    },
+    {
+        "name": "Chris Paul Crossover Stepback",
+        "category": "step_backs",
+        "introduced_season": 1,
+        "requirements": {
+            "logical_operator": "ALL",
+            "conditions": [
+                {
+                    "attribute": "ball_handle",
+                    "operator": ">=",
+                    "value": 80
+                },
+                {
+                    "attribute": "height",
+                    "operator": ">=",
+                    "value": 69
+                },
+                {
+                    "attribute": "height",
+                    "operator": "<=",
+                    "value": 81
+                }
+            ]
+        }
+    },
+    {
+        "name": "Darius Garland Crossover Stepback",
+        "category": "step_backs",
+        "introduced_season": 1,
+        "requirements": {
+            "logical_operator": "ALL",
+            "conditions": [
+                {
+                    "attribute": "ball_handle",
+                    "operator": ">=",
+                    "value": 84
+                },
+                {
+                    "attribute": "height",
+                    "operator": ">=",
+                    "value": 69
+                },
+                {
+                    "attribute": "height",
+                    "operator": "<=",
+                    "value": 76
+                }
+            ]
+        }
+    },
+    {
+        "name": "Ja Morant Crossover Stepback",
+        "category": "step_backs",
+        "introduced_season": 1,
+        "requirements": {
+            "logical_operator": "ALL",
+            "conditions": [
+                {
+                    "attribute": "ball_handle",
+                    "operator": ">=",
+                    "value": 86
+                },
+                {
+                    "attribute": "height",
+                    "operator": ">=",
+                    "value": 69
+                },
+                {
+                    "attribute": "height",
+                    "operator": "<=",
+                    "value": 76
+                }
+            ]
+        }
+    },
+    {
+        "name": "James Harden Crossover Stepback",
+        "category": "step_backs",
+        "introduced_season": 1,
+        "requirements": {
+            "logical_operator": "ALL",
+            "conditions": [
+                {
+                    "attribute": "ball_handle",
+                    "operator": ">=",
+                    "value": 86
+                },
+                {
+                    "attribute": "height",
+                    "operator": ">=",
+                    "value": 69
+                },
+                {
+                    "attribute": "height",
+                    "operator": "<=",
+                    "value": 81
+                }
+            ]
+        }
+    },
+    {
+        "name": "Jayson Tatum Crossover Stepback",
+        "category": "step_backs",
+        "introduced_season": 1,
+        "requirements": {
+            "logical_operator": "ALL",
+            "conditions": [
+                {
+                    "attribute": "ball_handle",
+                    "operator": ">=",
+                    "value": 75
+                },
+                {
+                    "attribute": "height",
+                    "operator": ">=",
+                    "value": 69
+                },
+                {
+                    "attribute": "height",
+                    "operator": "<=",
+                    "value": 81
+                }
+            ]
+        }
+    },
+    {
+        "name": "Jimmy Butler Crossover Stepback",
+        "category": "step_backs",
+        "introduced_season": 1,
+        "requirements": {
+            "logical_operator": "ALL",
+            "conditions": [
+                {
+                    "attribute": "ball_handle",
+                    "operator": ">=",
+                    "value": 80
+                },
+                {
+                    "attribute": "height",
+                    "operator": ">=",
+                    "value": 69
+                },
+                {
+                    "attribute": "height",
+                    "operator": "<=",
+                    "value": 81
+                }
+            ]
+        }
+    },
+    {
+        "name": "Joel Embiid Crossover Stepback",
+        "category": "step_backs",
+        "introduced_season": 1,
+        "requirements": {
+            "logical_operator": "ALL",
+            "conditions": [
+                {
+                    "attribute": "ball_handle",
+                    "operator": ">=",
+                    "value": 55
+                },
+                {
+                    "attribute": "height",
+                    "operator": ">=",
+                    "value": 82
+                },
+                {
+                    "attribute": "height",
+                    "operator": "<=",
+                    "value": 88
+                }
+            ]
+        }
+    },
+    {
+        "name": "Kawhi Leonard Crossover Stepback",
+        "category": "step_backs",
+        "introduced_season": 1,
+        "requirements": {
+            "logical_operator": "ALL",
+            "conditions": [
+                {
+                    "attribute": "ball_handle",
+                    "operator": ">=",
+                    "value": 80
+                },
+                {
+                    "attribute": "height",
+                    "operator": ">=",
+                    "value": 69
+                },
+                {
+                    "attribute": "height",
+                    "operator": "<=",
+                    "value": 81
+                }
+            ]
+        }
+    },
+    {
+        "name": "Kemba Walker Crossover Stepback",
+        "category": "step_backs",
+        "introduced_season": 1,
+        "requirements": {
+            "logical_operator": "ALL",
+            "conditions": [
+                {
+                    "attribute": "ball_handle",
+                    "operator": ">=",
+                    "value": 89
+                },
+                {
+                    "attribute": "height",
+                    "operator": ">=",
+                    "value": 69
+                },
+                {
+                    "attribute": "height",
+                    "operator": "<=",
+                    "value": 76
+                }
+            ]
+        }
+    },
+    {
+        "name": "Kevin Durant Crossover Stepback",
+        "category": "step_backs",
+        "introduced_season": 1,
+        "requirements": {
+            "logical_operator": "ALL",
+            "conditions": [
+                {
+                    "attribute": "ball_handle",
+                    "operator": ">=",
+                    "value": 70
+                },
+                {
+                    "attribute": "height",
+                    "operator": ">=",
+                    "value": 77
+                },
+                {
+                    "attribute": "height",
+                    "operator": "<=",
+                    "value": 88
+                }
+            ]
+        }
+    },
+    {
+        "name": "Klay Thompson Crossover Stepback",
+        "category": "step_backs",
+        "introduced_season": 1,
+        "requirements": {
+            "logical_operator": "ALL",
+            "conditions": [
+                {
+                    "attribute": "ball_handle",
+                    "operator": ">=",
+                    "value": 75
+                },
+                {
+                    "attribute": "height",
+                    "operator": ">=",
+                    "value": 69
+                },
+                {
+                    "attribute": "height",
+                    "operator": "<=",
+                    "value": 81
+                }
+            ]
+        }
+    },
+    {
+        "name": "Kyrie Irving Crossover Stepback",
+        "category": "step_backs",
+        "introduced_season": 1,
+        "requirements": {
+            "logical_operator": "ALL",
+            "conditions": [
+                {
+                    "attribute": "ball_handle",
+                    "operator": ">=",
+                    "value": 90
+                },
+                {
+                    "attribute": "height",
+                    "operator": ">=",
+                    "value": 69
+                },
+                {
+                    "attribute": "height",
+                    "operator": "<=",
+                    "value": 76
+                }
+            ]
+        }
+    },
+    {
+        "name": "Luka Doncic Crossover Stepback",
+        "category": "step_backs",
+        "introduced_season": 1,
+        "requirements": {
+            "logical_operator": "ALL",
+            "conditions": [
+                {
+                    "attribute": "ball_handle",
+                    "operator": ">=",
+                    "value": 84
+                },
+                {
+                    "attribute": "height",
+                    "operator": ">=",
+                    "value": 69
+                },
+                {
+                    "attribute": "height",
+                    "operator": "<=",
+                    "value": 81
+                }
+            ]
+        }
+    },
+    {
+        "name": "Normal Crossover Stepback",
+        "category": "step_backs",
+        "introduced_season": 1,
+        "requirements": {
+            "logical_operator": "ALL",
+            "conditions": [
+                {
+                    "attribute": "ball_handle",
+                    "operator": ">=",
+                    "value": 40
+                },
+                {
+                    "attribute": "height",
+                    "operator": ">=",
+                    "value": 69
+                },
+                {
+                    "attribute": "height",
+                    "operator": "<=",
+                    "value": 88
+                }
+            ]
+        }
+    },
+    {
+        "name": "Paul George Crossover Stepback",
+        "category": "step_backs",
+        "introduced_season": 1,
+        "requirements": {
+            "logical_operator": "ALL",
+            "conditions": [
+                {
+                    "attribute": "ball_handle",
+                    "operator": ">=",
+                    "value": 86
+                },
+                {
+                    "attribute": "height",
+                    "operator": ">=",
+                    "value": 69
+                },
+                {
+                    "attribute": "height",
+                    "operator": "<=",
+                    "value": 81
+                }
+            ]
+        }
+    },
+    {
+        "name": "Pro Crossover Stepback",
+        "category": "step_backs",
+        "introduced_season": 1,
+        "requirements": {
+            "logical_operator": "ALL",
+            "conditions": [
+                {
+                    "attribute": "ball_handle",
+                    "operator": ">=",
+                    "value": 70
+                },
+                {
+                    "attribute": "height",
+                    "operator": ">=",
+                    "value": 69
+                },
+                {
+                    "attribute": "height",
+                    "operator": "<=",
+                    "value": 88
+                }
+            ]
+        }
+    },
+    {
+        "name": "Shai Gilgeous-Alexander Crossover Stepback",
+        "category": "step_backs",
+        "introduced_season": 1,
+        "requirements": {
+            "logical_operator": "ALL",
+            "conditions": [
+                {
+                    "attribute": "ball_handle",
+                    "operator": ">=",
+                    "value": 91
+                },
+                {
+                    "attribute": "height",
+                    "operator": ">=",
+                    "value": 69
+                },
+                {
+                    "attribute": "height",
+                    "operator": "<=",
+                    "value": 81
+                }
+            ]
+        }
+    },
+    {
+        "name": "Stephen Curry Crossover Stepback",
+        "category": "step_backs",
+        "introduced_season": 1,
+        "requirements": {
+            "logical_operator": "ALL",
+            "conditions": [
+                {
+                    "attribute": "ball_handle",
+                    "operator": ">=",
+                    "value": 92
+                },
+                {
+                    "attribute": "height",
+                    "operator": ">=",
+                    "value": 69
+                },
+                {
+                    "attribute": "height",
+                    "operator": "<=",
+                    "value": 76
+                }
+            ]
+        }
+    },
+    {
+        "name": "Trae Young Crossover Stepback",
+        "category": "step_backs",
+        "introduced_season": 1,
+        "requirements": {
+            "logical_operator": "ALL",
+            "conditions": [
+                {
+                    "attribute": "ball_handle",
+                    "operator": ">=",
+                    "value": 92
+                },
+                {
+                    "attribute": "height",
+                    "operator": ">=",
+                    "value": 69
+                },
+                {
+                    "attribute": "height",
+                    "operator": "<=",
+                    "value": 76
+                }
+            ]
+        }
+    },
+    {
+        "name": "Vince Carter Crossover Stepback",
+        "category": "step_backs",
+        "introduced_season": 1,
+        "requirements": {
+            "logical_operator": "ALL",
+            "conditions": [
+                {
+                    "attribute": "ball_handle",
+                    "operator": ">=",
+                    "value": 70
+                },
+                {
+                    "attribute": "height",
+                    "operator": ">=",
+                    "value": 69
+                },
+                {
+                    "attribute": "height",
+                    "operator": "<=",
+                    "value": 81
+                }
+            ]
+        }
+    },
+    {
+        "name": "Zach LaVine Crossover Stepback",
+        "category": "step_backs",
+        "introduced_season": 1,
+        "requirements": {
+            "logical_operator": "ALL",
+            "conditions": [
+                {
+                    "attribute": "ball_handle",
+                    "operator": ">=",
+                    "value": 85
+                },
+                {
+                    "attribute": "height",
+                    "operator": ">=",
+                    "value": 69
+                },
+                {
+                    "attribute": "height",
+                    "operator": "<=",
+                    "value": 81
+                }
+            ]
+        }
+    },
+    {
+        "name": "Andrew Wiggins Lateral Stepback",
+        "category": "step_backs",
+        "introduced_season": 1,
+        "requirements": {
+            "logical_operator": "ALL",
+            "conditions": [
+                {
+                    "attribute": "ball_handle",
+                    "operator": ">=",
+                    "value": 75
+                },
+                {
+                    "attribute": "height",
+                    "operator": ">=",
+                    "value": 69
+                },
+                {
+                    "attribute": "height",
+                    "operator": "<=",
+                    "value": 81
+                }
+            ]
+        }
+    },
+    {
+        "name": "Basic Lateral Stepback",
+        "category": "step_backs",
+        "introduced_season": 1,
+        "requirements": {
+            "logical_operator": "ALL",
+            "conditions": [
+                {
+                    "attribute": "ball_handle",
+                    "operator": ">=",
+                    "value": 0
+                },
+                {
+                    "attribute": "height",
+                    "operator": ">=",
+                    "value": 69
+                },
+                {
+                    "attribute": "height",
+                    "operator": "<=",
+                    "value": 88
+                }
+            ]
+        }
+    },
+    {
+        "name": "Chris Paul Lateral Stepback",
+        "category": "step_backs",
+        "introduced_season": 1,
+        "requirements": {
+            "logical_operator": "ALL",
+            "conditions": [
+                {
+                    "attribute": "ball_handle",
+                    "operator": ">=",
+                    "value": 80
+                },
+                {
+                    "attribute": "height",
+                    "operator": ">=",
+                    "value": 69
+                },
+                {
+                    "attribute": "height",
+                    "operator": "<=",
+                    "value": 81
+                }
+            ]
+        }
+    },
+    {
+        "name": "Darius Garland Lateral Stepback",
+        "category": "step_backs",
+        "introduced_season": 1,
+        "requirements": {
+            "logical_operator": "ALL",
+            "conditions": [
+                {
+                    "attribute": "ball_handle",
+                    "operator": ">=",
+                    "value": 84
+                },
+                {
+                    "attribute": "height",
+                    "operator": ">=",
+                    "value": 69
+                },
+                {
+                    "attribute": "height",
+                    "operator": "<=",
+                    "value": 76
+                }
+            ]
+        }
+    },
+    {
+        "name": "James Harden Lateral Stepback",
+        "category": "step_backs",
+        "introduced_season": 1,
+        "requirements": {
+            "logical_operator": "ALL",
+            "conditions": [
+                {
+                    "attribute": "ball_handle",
+                    "operator": ">=",
+                    "value": 86
+                },
+                {
+                    "attribute": "height",
+                    "operator": ">=",
+                    "value": 69
+                },
+                {
+                    "attribute": "height",
+                    "operator": "<=",
+                    "value": 81
+                }
+            ]
+        }
+    },
+    {
+        "name": "Jayson Tatum Lateral Stepback",
+        "category": "step_backs",
+        "introduced_season": 1,
+        "requirements": {
+            "logical_operator": "ALL",
+            "conditions": [
+                {
+                    "attribute": "ball_handle",
+                    "operator": ">=",
+                    "value": 75
+                },
+                {
+                    "attribute": "height",
+                    "operator": ">=",
+                    "value": 69
+                },
+                {
+                    "attribute": "height",
+                    "operator": "<=",
+                    "value": 81
+                }
+            ]
+        }
+    },
+    {
+        "name": "Jimmy Butler Lateral Stepback",
+        "category": "step_backs",
+        "introduced_season": 1,
+        "requirements": {
+            "logical_operator": "ALL",
+            "conditions": [
+                {
+                    "attribute": "ball_handle",
+                    "operator": ">=",
+                    "value": 80
+                },
+                {
+                    "attribute": "height",
+                    "operator": ">=",
+                    "value": 69
+                },
+                {
+                    "attribute": "height",
+                    "operator": "<=",
+                    "value": 81
+                }
+            ]
+        }
+    },
+    {
+        "name": "Joel Embiid Lateral Stepback",
+        "category": "step_backs",
+        "introduced_season": 1,
+        "requirements": {
+            "logical_operator": "ALL",
+            "conditions": [
+                {
+                    "attribute": "ball_handle",
+                    "operator": ">=",
+                    "value": 55
+                },
+                {
+                    "attribute": "height",
+                    "operator": ">=",
+                    "value": 82
+                },
+                {
+                    "attribute": "height",
+                    "operator": "<=",
+                    "value": 88
+                }
+            ]
+        }
+    },
+    {
+        "name": "Kyrie Irving Lateral Stepback",
+        "category": "step_backs",
+        "introduced_season": 1,
+        "requirements": {
+            "logical_operator": "ALL",
+            "conditions": [
+                {
+                    "attribute": "ball_handle",
+                    "operator": ">=",
+                    "value": 90
+                },
+                {
+                    "attribute": "height",
+                    "operator": ">=",
+                    "value": 69
+                },
+                {
+                    "attribute": "height",
+                    "operator": "<=",
+                    "value": 76
+                }
+            ]
+        }
+    },
+    {
+        "name": "Luka Doncic Lateral Stepback",
+        "category": "step_backs",
+        "introduced_season": 1,
+        "requirements": {
+            "logical_operator": "ALL",
+            "conditions": [
+                {
+                    "attribute": "ball_handle",
+                    "operator": ">=",
+                    "value": 84
+                },
+                {
+                    "attribute": "height",
+                    "operator": ">=",
+                    "value": 69
+                },
+                {
+                    "attribute": "height",
+                    "operator": "<=",
+                    "value": 81
+                }
+            ]
+        }
+    },
+    {
+        "name": "Normal Lateral Stepback",
+        "category": "step_backs",
+        "introduced_season": 1,
+        "requirements": {
+            "logical_operator": "ALL",
+            "conditions": [
+                {
+                    "attribute": "ball_handle",
+                    "operator": ">=",
+                    "value": 40
+                },
+                {
+                    "attribute": "height",
+                    "operator": ">=",
+                    "value": 69
+                },
+                {
+                    "attribute": "height",
+                    "operator": "<=",
+                    "value": 88
+                }
+            ]
+        }
+    },
+    {
+        "name": "Paul George Lateral Stepback",
+        "category": "step_backs",
+        "introduced_season": 1,
+        "requirements": {
+            "logical_operator": "ALL",
+            "conditions": [
+                {
+                    "attribute": "ball_handle",
+                    "operator": ">=",
+                    "value": 86
+                },
+                {
+                    "attribute": "height",
+                    "operator": ">=",
+                    "value": 69
+                },
+                {
+                    "attribute": "height",
+                    "operator": "<=",
+                    "value": 81
+                }
+            ]
+        }
+    },
+    {
+        "name": "Pro Lateral Stepback",
+        "category": "step_backs",
+        "introduced_season": 1,
+        "requirements": {
+            "logical_operator": "ALL",
+            "conditions": [
+                {
+                    "attribute": "ball_handle",
+                    "operator": ">=",
+                    "value": 70
+                },
+                {
+                    "attribute": "height",
+                    "operator": ">=",
+                    "value": 69
+                },
+                {
+                    "attribute": "height",
+                    "operator": "<=",
+                    "value": 88
+                }
+            ]
+        }
+    },
+    {
+        "name": "Stephen Curry Lateral Stepback",
+        "category": "step_backs",
+        "introduced_season": 1,
+        "requirements": {
+            "logical_operator": "ALL",
+            "conditions": [
+                {
+                    "attribute": "ball_handle",
+                    "operator": ">=",
+                    "value": 92
+                },
+                {
+                    "attribute": "height",
+                    "operator": ">=",
+                    "value": 69
+                },
+                {
+                    "attribute": "height",
+                    "operator": "<=",
+                    "value": 76
+                }
+            ]
+        }
+    },
+    {
+        "name": "Trae Young Lateral Stepback",
+        "category": "step_backs",
+        "introduced_season": 1,
+        "requirements": {
+            "logical_operator": "ALL",
+            "conditions": [
+                {
+                    "attribute": "ball_handle",
+                    "operator": ">=",
+                    "value": 92
+                },
+                {
+                    "attribute": "height",
+                    "operator": ">=",
+                    "value": 69
+                },
+                {
+                    "attribute": "height",
+                    "operator": "<=",
+                    "value": 76
+                }
+            ]
+        }
+    },
+    {
+        "name": "Zach LaVine Lateral Stepback",
+        "category": "step_backs",
+        "introduced_season": 1,
+        "requirements": {
+            "logical_operator": "ALL",
+            "conditions": [
+                {
+                    "attribute": "ball_handle",
+                    "operator": ">=",
+                    "value": 85
+                },
+                {
+                    "attribute": "height",
+                    "operator": ">=",
+                    "value": 69
+                },
+                {
+                    "attribute": "height",
+                    "operator": "<=",
+                    "value": 81
+                }
+            ]
+        }
+    },
+    {
+        "name": "Basic Stepback",
+        "category": "step_backs",
+        "introduced_season": 1,
+        "requirements": {
+            "logical_operator": "ALL",
+            "conditions": [
+                {
+                    "attribute": "ball_handle",
+                    "operator": ">=",
+                    "value": 0
+                },
+                {
+                    "attribute": "height",
+                    "operator": ">=",
+                    "value": 69
+                },
+                {
+                    "attribute": "height",
+                    "operator": "<=",
+                    "value": 88
+                }
+            ]
+        }
+    },
+    {
+        "name": "Darius Garland Stepback",
+        "category": "step_backs",
+        "introduced_season": 1,
+        "requirements": {
+            "logical_operator": "ALL",
+            "conditions": [
+                {
+                    "attribute": "ball_handle",
+                    "operator": ">=",
+                    "value": 84
+                },
+                {
+                    "attribute": "height",
+                    "operator": ">=",
+                    "value": 69
+                },
+                {
+                    "attribute": "height",
+                    "operator": "<=",
+                    "value": 76
+                }
+            ]
+        }
+    },
+    {
+        "name": "James Harden Stepback",
+        "category": "step_backs",
+        "introduced_season": 1,
+        "requirements": {
+            "logical_operator": "ALL",
+            "conditions": [
+                {
+                    "attribute": "ball_handle",
+                    "operator": ">=",
+                    "value": 86
+                },
+                {
+                    "attribute": "height",
+                    "operator": ">=",
+                    "value": 69
+                },
+                {
+                    "attribute": "height",
+                    "operator": "<=",
+                    "value": 81
+                }
+            ]
+        }
+    },
+    {
+        "name": "Jayson Tatum Stepback",
+        "category": "step_backs",
+        "introduced_season": 1,
+        "requirements": {
+            "logical_operator": "ALL",
+            "conditions": [
+                {
+                    "attribute": "ball_handle",
+                    "operator": ">=",
+                    "value": 75
+                },
+                {
+                    "attribute": "height",
+                    "operator": ">=",
+                    "value": 69
+                },
+                {
+                    "attribute": "height",
+                    "operator": "<=",
+                    "value": 81
+                }
+            ]
+        }
+    },
+    {
+        "name": "Jimmy Butler Stepback",
+        "category": "step_backs",
+        "introduced_season": 1,
+        "requirements": {
+            "logical_operator": "ALL",
+            "conditions": [
+                {
+                    "attribute": "ball_handle",
+                    "operator": ">=",
+                    "value": 80
+                },
+                {
+                    "attribute": "height",
+                    "operator": ">=",
+                    "value": 69
+                },
+                {
+                    "attribute": "height",
+                    "operator": "<=",
+                    "value": 81
+                }
+            ]
+        }
+    },
+    {
+        "name": "Joel Embiid Stepback",
+        "category": "step_backs",
+        "introduced_season": 1,
+        "requirements": {
+            "logical_operator": "ALL",
+            "conditions": [
+                {
+                    "attribute": "ball_handle",
+                    "operator": ">=",
+                    "value": 55
+                },
+                {
+                    "attribute": "height",
+                    "operator": ">=",
+                    "value": 82
+                },
+                {
+                    "attribute": "height",
+                    "operator": "<=",
+                    "value": 88
+                }
+            ]
+        }
+    },
+    {
+        "name": "Kawhi Leonard Stepback",
+        "category": "step_backs",
+        "introduced_season": 1,
+        "requirements": {
+            "logical_operator": "ALL",
+            "conditions": [
+                {
+                    "attribute": "ball_handle",
+                    "operator": ">=",
+                    "value": 80
+                },
+                {
+                    "attribute": "height",
+                    "operator": ">=",
+                    "value": 69
+                },
+                {
+                    "attribute": "height",
+                    "operator": "<=",
+                    "value": 81
+                }
+            ]
+        }
+    },
+    {
+        "name": "Kyrie Irving Stepback",
+        "category": "step_backs",
+        "introduced_season": 1,
+        "requirements": {
+            "logical_operator": "ALL",
+            "conditions": [
+                {
+                    "attribute": "ball_handle",
+                    "operator": ">=",
+                    "value": 90
+                },
+                {
+                    "attribute": "height",
+                    "operator": ">=",
+                    "value": 69
+                },
+                {
+                    "attribute": "height",
+                    "operator": "<=",
+                    "value": 76
+                }
+            ]
+        }
+    },
+    {
+        "name": "LeBron James Stepback",
+        "category": "step_backs",
+        "introduced_season": 1,
+        "requirements": {
+            "logical_operator": "ALL",
+            "conditions": [
+                {
+                    "attribute": "ball_handle",
+                    "operator": ">=",
+                    "value": 80
+                },
+                {
+                    "attribute": "height",
+                    "operator": ">=",
+                    "value": 69
+                },
+                {
+                    "attribute": "height",
+                    "operator": "<=",
+                    "value": 81
+                }
+            ]
+        }
+    },
+    {
+        "name": "Luka Doncic Stepback",
+        "category": "step_backs",
+        "introduced_season": 1,
+        "requirements": {
+            "logical_operator": "ALL",
+            "conditions": [
+                {
+                    "attribute": "ball_handle",
+                    "operator": ">=",
+                    "value": 84
+                },
+                {
+                    "attribute": "height",
+                    "operator": ">=",
+                    "value": 69
+                },
+                {
+                    "attribute": "height",
+                    "operator": "<=",
+                    "value": 81
+                }
+            ]
+        }
+    },
+    {
+        "name": "Normal Stepback",
+        "category": "step_backs",
+        "introduced_season": 1,
+        "requirements": {
+            "logical_operator": "ALL",
+            "conditions": [
+                {
+                    "attribute": "ball_handle",
+                    "operator": ">=",
+                    "value": 40
+                },
+                {
+                    "attribute": "height",
+                    "operator": ">=",
+                    "value": 69
+                },
+                {
+                    "attribute": "height",
+                    "operator": "<=",
+                    "value": 88
+                }
+            ]
+        }
+    },
+    {
+        "name": "Paul George Stepback",
+        "category": "step_backs",
+        "introduced_season": 1,
+        "requirements": {
+            "logical_operator": "ALL",
+            "conditions": [
+                {
+                    "attribute": "ball_handle",
+                    "operator": ">=",
+                    "value": 86
+                },
+                {
+                    "attribute": "height",
+                    "operator": ">=",
+                    "value": 69
+                },
+                {
+                    "attribute": "height",
+                    "operator": "<=",
+                    "value": 81
+                }
+            ]
+        }
+    },
+    {
+        "name": "Pro Stepback",
+        "category": "step_backs",
+        "introduced_season": 1,
+        "requirements": {
+            "logical_operator": "ALL",
+            "conditions": [
+                {
+                    "attribute": "ball_handle",
+                    "operator": ">=",
+                    "value": 70
+                },
+                {
+                    "attribute": "height",
+                    "operator": ">=",
+                    "value": 69
+                },
+                {
+                    "attribute": "height",
+                    "operator": "<=",
+                    "value": 88
+                }
+            ]
+        }
+    },
+    {
+        "name": "Stephen Curry Stepback",
+        "category": "step_backs",
+        "introduced_season": 1,
+        "requirements": {
+            "logical_operator": "ALL",
+            "conditions": [
+                {
+                    "attribute": "ball_handle",
+                    "operator": ">=",
+                    "value": 92
+                },
+                {
+                    "attribute": "height",
+                    "operator": ">=",
+                    "value": 69
+                },
+                {
+                    "attribute": "height",
+                    "operator": "<=",
+                    "value": 76
+                }
+            ]
+        }
+    },
+    {
+        "name": "Zach LaVine Stepback",
+        "category": "step_backs",
+        "introduced_season": 1,
+        "requirements": {
+            "logical_operator": "ALL",
+            "conditions": [
+                {
+                    "attribute": "ball_handle",
+                    "operator": ">=",
+                    "value": 85
+                },
+                {
+                    "attribute": "height",
+                    "operator": ">=",
+                    "value": 69
+                },
+                {
+                    "attribute": "height",
+                    "operator": "<=",
+                    "value": 81
+                }
+            ]
+        }
+    }
+]

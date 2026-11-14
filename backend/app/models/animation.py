@@ -1,5 +1,5 @@
 from sqlalchemy import ForeignKey, String
-from sqlalchemy.orm import Mapped, mapped_column
+from sqlalchemy.orm import Mapped, mapped_column, relationship
 
 from app.database import Base
 
@@ -25,3 +25,7 @@ class Animation(Base):
     )
 
     name: Mapped[str] = mapped_column(String(100), nullable=False)
+
+    category = relationship("AnimationCategory")
+
+    

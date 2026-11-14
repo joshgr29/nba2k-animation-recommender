@@ -1,4 +1,4 @@
-from fastapi import FastAPI
+from fastapi import FastAPI, Depends
 from pydantic import BaseModel
 from app.database import SessionLocal
 from app.compatibility import get_compatible_animations
@@ -6,30 +6,38 @@ from app.compatibility import get_compatible_animations
 class PlayerBuild(BaseModel):
     height: int
     speed_with_ball: int
+    ball_handle: int
 
 app = FastAPI()
 
-@app.get("/")
-def root():
-    return {"message": "NBA 2K A nimation Recommender API"}
-
-@app.post("/recommendations/animations")
-def recommend_animations(build: PlayerBuild):
-    player = {
-        "height": build.height,
-        "speed_with_ball": build.speed_with_ball
-    }
-
+def get_db():
     db = SessionLocal()
-
     try:
-        compatible_animations = get_compatible_animations(db, player)
-
-        return {
-            "compatible_animations": [
-                animation.name
-                for animation in compatible_animations
-            ]
-        }
+        yield db
     finally:
         db.close()
+
+@app.get("/")
+def root():
+    return {"message": "NBA 2K Animation Recommender API"}
+
+@app.post("/recommendations/animations")
+def recommend_animations(build: PlayerBuild, db=Depends(get_db)):
+    player = {
+        "height": build.height,
+        "speed_with_ball": build.speed_with_ball,
+        "ball_handle": build.ball_handle
+    }
+
+
+    compatible_animations = get_compatible_animations(db, player)
+
+    return {
+        "compatible_animations": [
+            {
+                "name": animation.name,
+                "category": animation.category.code
+            }
+            for animation in compatible_animations
+        ]
+    }

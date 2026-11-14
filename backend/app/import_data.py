@@ -8,7 +8,8 @@ from app.models import Attribute, AnimationCategory, GameEdition, Season, Animat
 files = [
     "dribble_styles.json",
     "signature_size_ups.json",
-    "escape_moves.json"
+    "escape_moves.json",
+    "step_backs.json"
 ]
 
 def validate_animation(animation, attribute_codes, category_codes, season_number):

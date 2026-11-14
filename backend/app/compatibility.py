@@ -2,17 +2,14 @@ from sqlalchemy import select
 from app.models import Animation, RequirementGroup, Requirement, Attribute
 
 def check_requirement(player_value, operator, required_value):
-
-    if(operator != ">=" and operator != "<=" and operator != "="):
+    if operator not in [">=", "<=", "="]:
         raise ValueError(f"Invalid operator: {operator}")
+    if operator == ">=":
+        return player_value >= required_value
+    elif operator == "<=":
+            return player_value <= required_value
     else:
-        if player_value >= required_value and operator == ">=":
-            return True
-        elif player_value <= required_value and operator == "<=":
-            return True
-        elif player_value == required_value and operator == "=":
-            return True
-        return False
+        return player_value == required_value
 
 def check_requirement_group(player, conditions, logical_operator):
 
@@ -113,3 +110,7 @@ def get_compatible_animations(db, player):
             compatible_animations.append(animation)
 
     return compatible_animations
+
+
+
+    

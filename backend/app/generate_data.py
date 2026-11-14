@@ -5,6 +5,7 @@ import json
 url_dribble_styles = "https://www.lockercodes.io/nba-2k/animation-requirements/all-dribble-moves/dribble-style"
 url_signature_size_ups = "https://www.lockercodes.io/nba-2k/animation-requirements/all-dribble-moves/signature-size-up"
 url_escape_moves = "https://www.lockercodes.io/nba-2k/animation-requirements/all-dribble-moves/escape-moves"
+url_step_backs = "https://www.lockercodes.io/nba-2k/animation-requirements/all-dribble-moves/stepback"
 
 def height_to_inches(height):
     feet, inches = height.split("'")
@@ -78,3 +79,4 @@ def generate_category(url, category, attribute):
 generate_category(url_dribble_styles, "dribble_styles", "speed_with_ball")
 generate_category(url_signature_size_ups, "signature_size_ups", "ball_handle")
 generate_category(url_escape_moves, "escape_moves", "ball_handle")
+generate_category(url_step_backs, "step_backs", "ball_handle")
