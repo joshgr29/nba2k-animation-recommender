@@ -2,6 +2,7 @@ from fastapi import FastAPI, Depends
 from pydantic import BaseModel
 from app.database import SessionLocal
 from app.compatibility import get_compatible_animations
+from app.community_scoring import calculate_community_score
 
 class PlayerBuild(BaseModel):
     height: int
@@ -32,12 +33,22 @@ def recommend_animations(build: PlayerBuild, db=Depends(get_db)):
 
     compatible_animations = get_compatible_animations(db, player)
 
-    return {
-        "compatible_animations": [
-            {
-                "name": animation.name,
-                "category": animation.category.code
-            }
-            for animation in compatible_animations
-        ]
+    recommendation = {"compatible_animations": [
+                {
+                    "name": animation.name,
+                    "category": animation.category.code,
+                    "community": calculate_community_score(db, animation.id)
+                }
+                for animation in compatible_animations
+            ]
     }
+
+    ranking_reco = sorted(
+        recommendation["compatible_animations"],
+        key=lambda animation: animation["community"]["score"],
+        reverse=True
+    )
+
+    return {
+    "compatible_animations": ranking_reco
+}

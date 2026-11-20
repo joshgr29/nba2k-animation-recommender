@@ -5,3 +5,6 @@ from app.models.game_edition import GameEdition
 from app.models.requirement import Requirement
 from app.models.requirement_group import RequirementGroup
 from app.models.season import Season
+from app.models.creator import Creator
+from app.models.community_source import CommunitySource
+from app.models.animation_review import AnimationReview
