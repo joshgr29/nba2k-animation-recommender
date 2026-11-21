@@ -45,7 +45,7 @@ def recommend_animations(build: PlayerBuild, db=Depends(get_db)):
 
     ranking_reco = sorted(
         recommendation["compatible_animations"],
-        key=lambda animation: animation["community"]["score"],
+        key=lambda animation: (animation["community"]["review_count"] > 0, animation["community"]["score"], animation["community"]["review_count"]),
         reverse=True
     )
 
