@@ -43,17 +43,21 @@ def calculate_community_score(db, animation_id):
         elif review.opinion == "CRITICIZED":
             score -= 1
             negative_count += 1
+    
+    opinion_count = positive_count + negative_count
 
-    if positive_count == 0 and negative_count == 0:
+    if opinion_count == 0:
         consensus = None
+        confidence = None
     else:
-        consensus = (abs(positive_count - negative_count)) / (positive_count + negative_count)
-
+        consensus = (abs(positive_count - negative_count)) / opinion_count
+        confidence = consensus * opinion_count / (opinion_count + 5)
     comu_score = {
         "score": score,
         "review_count": len(latest_reviews),
         "creator_count": len(latest_reviews),
-        "consensus": consensus
+        "consensus": consensus,
+        "confidence": confidence
     }
 
     return comu_score

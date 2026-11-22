@@ -47,6 +47,14 @@ def seed_commu():
             "animation": "Stephen Curry",
             "category": "dribble_styles",
             "opinion": "CRITICIZED"
+        },
+        {
+            "creator": "DemoCreator5",
+            "platform": "YouTube",
+            "url": "https://example.com/demo-video-6",
+            "animation": "Kyrie Irving",
+            "category": "dribble_styles",
+            "opinion": "RECOMMENDED"
         }
     ]
 
