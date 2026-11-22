@@ -45,19 +45,22 @@ def calculate_community_score(db, animation_id):
             negative_count += 1
     
     opinion_count = positive_count + negative_count
+    recommendation_score = (positive_count - negative_count) / (opinion_count + 5)
 
     if opinion_count == 0:
         consensus = None
         confidence = None
     else:
         consensus = (abs(positive_count - negative_count)) / opinion_count
-        confidence = consensus * opinion_count / (opinion_count + 5)
+        confidence = abs(recommendation_score)
+    
     comu_score = {
         "score": score,
         "review_count": len(latest_reviews),
         "creator_count": len(latest_reviews),
         "consensus": consensus,
-        "confidence": confidence
+        "confidence": confidence,
+        "recommendation_score": recommendation_score
     }
 
     return comu_score
