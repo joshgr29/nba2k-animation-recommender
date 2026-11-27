@@ -7,7 +7,12 @@ from app.models.animation_review import AnimationReview
 from app.community_scoring import calculate_community_score
 from sqlalchemy import select
 
-from datetime import datetime, timezone
+from datetime import datetime
+
+import json
+from pathlib import Path
+
+file_path = Path(__file__).resolve().parent.parent / "data" / "nba2k27" / "community_reviews.json"
 
 
 def seed_commu():
@@ -15,27 +20,8 @@ def seed_commu():
 
     db = SessionLocal()
 
-    real_reviews = [
-        {
-            "creator": "Foldzy84",
-            "platform": "Reddit",
-            "url": "https://www.reddit.com/r/NBA2k/comments/1w1xc5t/comment/p6ojxm0/",
-            "animation": "Ja Morant",
-            "category": "dribble_styles",
-            "opinion": "RECOMMENDED",
-            "published_at": datetime(2026, 8, 29, 21, 21, 54, tzinfo=timezone.utc)
-        },
-        {
-            "creator": "Foldzy84",
-            "platform": "Reddit",
-            "url": "https://www.reddit.com/r/NBA2k/comments/1w1xc5t/comment/p6ojxm0/",
-            "animation": "Zach LaVine",
-            "category": "dribble_styles",
-            "opinion": "RECOMMENDED",
-            "published_at": datetime(2026, 8, 29, 21, 21, 54, tzinfo=timezone.utc)
-        },
-        
-    ]
+    with open(file_path, "r", encoding="utf-8") as file:
+        real_reviews = json.load(file)
 
     for review_data in real_reviews:
            
@@ -68,7 +54,7 @@ def seed_commu():
 
         if source is None:
 
-            source = CommunitySource(creator_id=creator.id, url=review_data["url"], published_at=review_data["published_at"])
+            source = CommunitySource(creator_id=creator.id, url=review_data["url"], published_at=datetime.fromisoformat(review_data["published_at"]))
 
             db.add(source)
             db.commit()
